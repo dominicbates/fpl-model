@@ -1,2 +1,2 @@
 # fpl-model
-Model to predict next N weeks points
+Model to predict next N weeks points.
