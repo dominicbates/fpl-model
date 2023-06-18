@@ -11,7 +11,6 @@ Will consist of:
 - Perhaps automated running and deployment
 
 #### To do:
-- Add all data processing code in to python script "data.py"
-- Create random forest model code "model.py"
+- Create random forest model code in "model.py"
 - Test fitting model with simple set of features
 - Hyperparameter fitting (remember to tune bins + n week history) using crossvalidation of time periods
