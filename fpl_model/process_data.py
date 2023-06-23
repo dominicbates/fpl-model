@@ -141,8 +141,8 @@ def process_features(df, bins = [[0,1], [1,2], [2,3], [3,4],  [4,5], [5,10], [10
         vals[col] = []
 
     # Sort to allow "windowing" to calculate stats
-    df = df.sort_values(by = ['name_cleaned','season','GW'],
-                                ascending = [True,True,True]).reset_index(drop=True)
+    df = df.sort_values(by = ['name_cleaned','season','GW','kickoff_time'],
+                                ascending = [True,True,True,True]).reset_index(drop=True)
     print('Processing dataframe binned features')
     # loop through all rows
     for n in range(len(df)):
@@ -160,12 +160,12 @@ def process_features(df, bins = [[0,1], [1,2], [2,3], [3,4],  [4,5], [5,10], [10
 
 
 
-def do_all_processing_steps(df):
+def do_all_processing_steps(df, history_size=5):
     '''
     Do all steps required for generating triaining data
     '''
     df_goals_conceded = get_df_goals_conceded(df) # Get goals conceded df
-    df = process_opponent_feature(df, df_goals_conceded, 5) # Use this to generate featuremfor all rows
+    df = process_opponent_feature(df, df_goals_conceded, history_size=history_size) # Use this to generate featuremfor all rows
     df = process_features(df) # Create all other features
     df = one_hot_encode(df) # One hot encode any which need to be
     
