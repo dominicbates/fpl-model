@@ -2,13 +2,13 @@
 0,erling haaland,FWD,6.17,6.52,0.0,5.94,6.02,24.65
 1,mohamed salah,MID,6.36,5.76,0.0,6.38,5.59,24.09
 2,harry kane,FWD,5.71,6.31,0.0,6.41,5.54,23.97
-3,marcus rashford,MID,6.44,6.09,0.0,5.17,6.02,23.720000000000002
+3,marcus rashford,MID,6.44,6.09,0.0,5.17,6.02,23.72
 4,bukayo saka,MID,6.32,5.9,0.0,5.3,5.18,22.7
 5,ollie watkins,FWD,5.87,4.98,0.0,5.4,6.04,22.29
 6,martin ødegaard,MID,5.81,5.54,0.0,5.02,5.49,21.86
 7,kaoru mitoma,MID,5.61,5.78,0.0,5.53,4.5,21.42
 8,gabriel martinelli silva,MID,5.66,4.83,0.0,5.85,3.83,20.17
-9,kieran trippier,DEF,5.18,5.03,0.0,4.74,4.45,19.400000000000002
+9,kieran trippier,DEF,5.18,5.03,0.0,4.74,4.45,19.4
 10,bruno borges fernandes,MID,4.93,4.72,0.0,4.49,5.11,19.25
 11,ivan toney,FWD,4.93,5.53,0.0,4.8,3.42,18.68
 12,son heung-min,MID,4.31,4.79,0.0,4.9,4.42,18.42
@@ -24,63 +24,63 @@
 22,dwight mcneil,MID,4.16,3.85,0.0,4.47,4.73,17.21
 23,morgan gibbs-white,MID,3.98,4.49,0.0,4.32,4.35,17.14
 24,jacob ramsey,MID,4.11,3.84,0.0,4.3,4.73,16.98
-25,tyrone mings,DEF,4.45,3.92,0.0,4.21,4.39,16.970000000000002
+25,tyrone mings,DEF,4.45,3.92,0.0,4.21,4.39,16.97
 26,jason steele,GKP,4.27,4.65,0.0,4.01,3.98,16.91
 27,alisson ramses becker,GKP,4.03,4.5,0.0,4.42,3.85,16.8
 28,bryan mbeumo,FWD,4.07,4.0,0.0,3.88,4.75,16.7
 29,nick pope,GKP,4.28,4.41,0.0,4.06,3.89,16.64
-30,douglas luiz soares de paulo,MID,3.85,3.86,0.0,4.07,4.85,16.630000000000003
-31,riyad mahrez,MID,3.84,4.46,0.0,4.19,4.12,16.610000000000003
+30,douglas luiz soares de paulo,MID,3.85,3.86,0.0,4.07,4.85,16.63
+31,riyad mahrez,MID,3.84,4.46,0.0,4.19,4.12,16.61
 32,benjamin white,DEF,4.13,3.76,0.0,4.14,4.38,16.41
 33,bernd leno,GKP,4.08,4.14,0.0,4.34,3.75,16.31
-34,gabriel fernando de jesus,FWD,4.04,4.12,0.0,3.81,4.23,16.200000000000003
+34,gabriel fernando de jesus,FWD,4.04,4.12,0.0,3.81,4.23,16.2
 35,cody gakpo,MID,4.37,3.92,0.0,3.98,3.91,16.18
-36,solly march,MID,5.77,4.99,0.0,3.88,1.53,16.17
-37,norberto murara neto,GKP,4.18,4.09,0.0,4.27,3.63,16.169999999999998
-38,pervis estupiñán,DEF,4.14,4.23,0.0,4.08,3.68,16.130000000000003
+36,norberto murara neto,GKP,4.18,4.09,0.0,4.27,3.63,16.17
+37,solly march,MID,5.77,4.99,0.0,3.88,1.53,16.17
+38,pervis estupiñán,DEF,4.14,4.23,0.0,4.08,3.68,16.13
 39,lucas tolentino coelho de lima,MID,3.71,4.22,0.0,4.25,3.9,16.08
 40,emiliano buendía stati,MID,3.92,3.99,0.0,4.09,4.03,16.03
 41,joelinton cássio apolinário de lira,MID,4.62,4.37,0.0,4.19,2.84,16.02
 42,alexis mac allister,MID,3.78,4.5,0.0,4.41,3.23,15.92
-43,jack harrison,MID,4.51,3.88,0.0,3.64,3.83,15.860000000000001
-44,michael olise,MID,4.0,4.09,0.0,3.63,4.1,15.819999999999999
-45,josé malheiro de sá,GKP,4.4,3.89,0.0,4.86,2.45,15.600000000000001
+43,jack harrison,MID,4.51,3.88,0.0,3.64,3.83,15.86
+44,michael olise,MID,4.0,4.09,0.0,3.63,4.1,15.82
+45,josé malheiro de sá,GKP,4.4,3.89,0.0,4.86,2.45,15.6
 46,kepa arrizabalaga,GKP,3.69,3.81,0.0,3.97,4.1,15.57
 47,fabian schär,DEF,4.27,4.14,0.0,3.43,3.73,15.57
-48,james ward-prowse,MID,3.31,3.61,0.0,4.18,4.39,15.489999999999998
+48,james ward-prowse,MID,3.31,3.61,0.0,4.18,4.39,15.49
 49,joe willock,MID,4.3,4.48,0.0,4.47,2.23,15.48
-50,kevin de bruyne,MID,4.36,3.39,0.0,3.92,3.8,15.469999999999999
-51,sven botman,DEF,3.98,4.0,0.0,3.71,3.73,15.420000000000002
+50,kevin de bruyne,MID,4.36,3.39,0.0,3.92,3.8,15.47
+51,sven botman,DEF,3.98,4.0,0.0,3.71,3.73,15.42
 52,brennan johnson,FWD,3.71,4.07,0.0,4.7,2.92,15.4
 53,ezri konsa ngoyo,DEF,4.1,3.37,0.0,3.67,4.24,15.38
 54,aaron ramsdale,GKP,3.93,3.44,0.0,3.85,4.12,15.34
 55,jordan ayew,MID,3.96,3.93,0.0,3.53,3.91,15.33
-56,mathias jensen,MID,3.74,3.64,0.0,3.87,4.06,15.309999999999999
-57,abdoulaye doucouré,MID,3.49,3.69,0.0,4.31,3.77,15.259999999999998
-58,lukasz fabianski,GKP,3.45,3.91,0.0,4.29,3.47,15.120000000000001
+56,mathias jensen,MID,3.74,3.64,0.0,3.87,4.06,15.31
+57,abdoulaye doucouré,MID,3.49,3.69,0.0,4.31,3.77,15.26
+58,lukasz fabianski,GKP,3.45,3.91,0.0,4.29,3.47,15.12
 59,rúben da silva neves,MID,3.85,3.73,0.0,4.1,3.41,15.09
 60,jordan pickford,GKP,3.23,4.01,0.0,3.5,4.31,15.05
 61,alexandre moreno lopera,DEF,4.18,4.01,0.0,4.12,2.71,15.02
-62,ethan pinnock,DEF,4.05,3.41,0.0,3.51,4.04,15.009999999999998
+62,ethan pinnock,DEF,4.05,3.41,0.0,3.51,4.04,15.01
 63,pascal groß,MID,4.12,2.84,0.0,4.3,3.74,15.0
 64,virgil van dijk,DEF,3.66,3.75,0.0,4.14,3.42,14.97
 65,ben mee,DEF,4.03,3.52,0.0,3.33,4.05,14.93
 66,danilo dos santos de oliveira,MID,3.49,3.94,0.0,4.1,3.4,14.93
 67,luke shaw,DEF,3.77,3.55,0.0,3.83,3.76,14.91
-68,john mcginn,MID,4.28,3.37,0.0,3.51,3.71,14.870000000000001
+68,john mcginn,MID,4.28,3.37,0.0,3.51,3.71,14.87
 69,jefferson lerma solís,MID,3.44,4.0,0.0,3.66,3.7,14.8
 70,julián álvarez,FWD,3.27,4.0,0.0,4.32,3.19,14.78
-71,harry wilson,MID,3.06,3.67,0.0,4.21,3.75,14.690000000000001
-72,philip billing,MID,4.02,4.12,0.0,4.19,2.33,14.660000000000002
-73,granit xhaka,MID,2.99,4.42,0.0,3.67,3.45,14.530000000000001
+71,harry wilson,MID,3.06,3.67,0.0,4.21,3.75,14.69
+72,philip billing,MID,4.02,4.12,0.0,4.19,2.33,14.66
+73,granit xhaka,MID,2.99,4.42,0.0,3.67,3.45,14.53
 74,bruno guimarães rodriguez moura,MID,3.81,3.58,0.0,3.72,3.36,14.47
 75,alex iwobi,MID,3.18,3.69,0.0,3.63,3.97,14.47
 76,gabriel dos santos magalhães,DEF,3.5,3.44,0.0,3.55,3.96,14.45
-77,andrew robertson,DEF,3.98,3.13,0.0,3.88,3.22,14.209999999999999
+77,andrew robertson,DEF,3.98,3.13,0.0,3.88,3.22,14.21
 78,harvey barnes,MID,3.51,3.39,0.0,4.02,3.27,14.19
-79,willian borges da silva,MID,2.08,3.89,0.0,4.49,3.71,14.170000000000002
+79,willian borges da silva,MID,2.08,3.89,0.0,4.49,3.71,14.17
 80,dan burn,DEF,3.28,3.77,0.0,3.43,3.5,13.98
-81,carlos henrique casimiro,MID,3.42,3.08,0.0,3.49,3.95,13.940000000000001
+81,carlos henrique casimiro,MID,3.42,3.08,0.0,3.49,3.95,13.94
 82,julio enciso,FWD,3.5,3.93,0.0,3.0,3.5,13.93
 83,sam johnstone,GKP,3.36,3.53,0.0,3.44,3.51,13.84
 84,john stones,DEF,3.66,3.8,0.0,2.86,3.5,13.82
@@ -88,78 +88,78 @@
 86,lewis dunk,DEF,3.78,4.16,0.0,3.64,2.18,13.76
 87,diogo teixeira da silva,FWD,3.8,2.48,0.0,4.15,3.32,13.75
 88,curtis jones,MID,3.65,3.77,0.0,3.53,2.74,13.69
-89,pedro porro,DEF,3.51,3.59,0.0,4.26,2.29,13.649999999999999
+89,pedro porro,DEF,3.51,3.59,0.0,4.26,2.29,13.65
 90,rodrigo hernandez,MID,3.62,4.04,0.0,2.8,3.18,13.64
-91,lloyd kelly,DEF,3.6,3.57,0.0,3.53,2.93,13.629999999999999
+91,lloyd kelly,DEF,3.6,3.57,0.0,3.53,2.93,13.63
 92,james maddison,MID,3.84,3.14,0.0,3.71,2.86,13.55
-93,antonee robinson,DEF,3.42,3.56,0.0,3.9,2.66,13.540000000000001
+93,antonee robinson,DEF,3.42,3.56,0.0,3.9,2.66,13.54
 94,declan rice,MID,3.42,2.63,0.0,3.62,3.83,13.5
 95,fraser forster,GKP,3.45,3.36,0.0,3.79,2.88,13.48
 96,craig dawson,DEF,3.44,2.7,0.0,4.33,3.0,13.47
 97,fabio henrique tavares,MID,3.36,3.5,0.0,3.56,3.01,13.43
 98,tomas soucek,MID,3.58,2.55,0.0,3.82,3.47,13.42
-99,danny welbeck,FWD,3.13,4.04,0.0,2.94,3.29,13.399999999999999
+99,danny welbeck,FWD,3.13,4.04,0.0,2.94,3.29,13.4
 100,harrison reed,MID,3.63,2.65,0.0,3.83,3.24,13.35
 101,patrick bamford,FWD,3.35,3.56,0.0,3.64,2.79,13.34
-102,jack grealish,MID,4.66,4.9,0.0,2.39,1.38,13.330000000000002
+102,jack grealish,MID,4.66,4.9,0.0,2.39,1.38,13.33
 103,miguel almirón rejala,MID,3.61,3.24,0.0,2.91,3.57,13.33
-104,keylor navas,GKP,3.0,3.38,0.0,3.34,3.6,13.319999999999999
-105,carlos alcaraz,MID,3.24,3.08,0.0,3.47,3.48,13.270000000000001
-106,marc guéhi,DEF,3.48,3.23,0.0,3.01,3.49,13.209999999999999
+104,keylor navas,GKP,3.0,3.38,0.0,3.34,3.6,13.32
+105,carlos alcaraz,MID,3.24,3.08,0.0,3.47,3.48,13.27
+106,marc guéhi,DEF,3.48,3.23,0.0,3.01,3.49,13.21
 107,jadon sancho,MID,3.51,2.59,0.0,2.94,4.16,13.2
-108,nélson cabral semedo,DEF,3.4,2.6,0.0,4.19,2.99,13.180000000000001
+108,nélson cabral semedo,DEF,3.4,2.6,0.0,4.19,2.99,13.18
 109,pierre-emile højbjerg,MID,3.28,3.89,0.0,3.88,2.1,13.15
 110,daniel iversen,GKP,3.4,3.23,0.0,2.65,3.83,13.11
 111,matheus luiz nunes,MID,3.51,3.67,0.0,3.7,2.22,13.1
 112,rico henry,DEF,3.87,2.67,0.0,3.05,3.46,13.05
 113,ilkay gündogan,MID,3.6,2.38,0.0,3.19,3.88,13.05
-114,oliver skipp,MID,3.12,3.45,0.0,3.39,3.07,13.030000000000001
+114,oliver skipp,MID,3.12,3.45,0.0,3.39,3.07,13.03
 115,ryan christie,MID,3.39,3.42,0.0,3.67,2.5,12.98
-116,carlos vinícius alves morais,FWD,3.13,3.65,0.0,4.14,2.04,12.959999999999997
+116,carlos vinícius alves morais,FWD,3.13,3.65,0.0,4.14,2.04,12.96
 117,joão palhinha gonçalves,MID,3.16,3.42,0.0,3.44,2.93,12.95
 118,vitaly janelt,MID,3.37,2.96,0.0,3.22,3.38,12.93
 119,max kilman,DEF,3.4,3.22,0.0,4.19,2.11,12.92
 120,orel mangala,MID,3.13,3.29,0.0,3.32,3.16,12.9
-121,saïd benrahma,MID,3.34,2.88,0.0,4.37,2.29,12.879999999999999
+121,saïd benrahma,MID,3.34,2.88,0.0,4.37,2.29,12.88
 122,victor lindelöf,DEF,3.02,2.89,0.0,3.39,3.54,12.84
 123,michail antonio,FWD,3.51,3.23,0.0,4.02,2.07,12.83
-124,timothy castagne,DEF,3.46,3.08,0.0,2.57,3.7,12.809999999999999
+124,timothy castagne,DEF,3.46,3.08,0.0,2.57,3.7,12.81
 125,tyrick mitchell,DEF,3.42,2.98,0.0,2.94,3.39,12.73
 126,mario lemina,MID,3.21,3.46,0.0,3.73,2.31,12.71
-127,renan augusto lodi dos santos,DEF,3.18,3.47,0.0,2.83,3.14,12.620000000000001
+127,renan augusto lodi dos santos,DEF,3.18,3.47,0.0,2.83,3.14,12.62
 128,moisés caicedo corozo,MID,2.95,3.25,0.0,3.34,3.06,12.6
 129,roméo lavia,MID,2.98,2.94,0.0,3.34,3.34,12.6
 130,marcos senesi,DEF,2.9,3.53,0.0,3.14,2.99,12.56
-131,dominic calvert-lewin,FWD,2.97,3.55,0.0,3.44,2.59,12.549999999999999
+131,dominic calvert-lewin,FWD,2.97,3.55,0.0,3.44,2.59,12.55
 132,leandro trossard,MID,3.61,3.05,0.0,2.18,3.65,12.49
 133,jeffrey schlupp,MID,2.88,4.11,0.0,3.23,2.27,12.49
 134,wout faes,DEF,3.39,3.01,0.0,2.49,3.58,12.47
 135,darwin núñez ribeiro,FWD,3.16,4.09,0.0,3.07,2.11,12.43
-136,ibrahima konaté,DEF,2.35,3.64,0.0,3.47,2.96,12.420000000000002
-137,jamie vardy,FWD,2.75,3.8,0.0,2.92,2.93,12.399999999999999
-138,antony matheus dos santos,MID,3.05,2.9,0.0,3.4,3.03,12.379999999999999
-139,ashley young,DEF,3.47,2.81,0.0,3.18,2.91,12.370000000000001
-140,matías viña,DEF,3.39,2.57,0.0,3.93,2.46,12.350000000000001
-141,aaron wan-bissaka,DEF,2.61,2.92,0.0,3.28,3.43,12.239999999999998
+136,ibrahima konaté,DEF,2.35,3.64,0.0,3.47,2.96,12.42
+137,jamie vardy,FWD,2.75,3.8,0.0,2.92,2.93,12.4
+138,antony matheus dos santos,MID,3.05,2.9,0.0,3.4,3.03,12.38
+139,ashley young,DEF,3.47,2.81,0.0,3.18,2.91,12.37
+140,matías viña,DEF,3.39,2.57,0.0,3.93,2.46,12.35
+141,aaron wan-bissaka,DEF,2.61,2.92,0.0,3.28,3.43,12.24
 142,christian eriksen,MID,3.27,2.11,0.0,3.33,3.52,12.23
-143,james tarkowski,DEF,2.64,2.96,0.0,3.05,3.57,12.219999999999999
+143,james tarkowski,DEF,2.64,2.96,0.0,3.05,3.57,12.22
 144,enzo fernández,MID,3.09,2.91,0.0,3.09,3.09,12.18
 145,jacob murphy,MID,3.14,3.44,0.0,3.25,2.35,12.18
-146,idrissa gueye,MID,3.02,3.04,0.0,2.88,3.23,12.170000000000002
-147,kyle walker,DEF,3.03,3.35,0.0,2.84,2.93,12.149999999999999
+146,idrissa gueye,MID,3.02,3.04,0.0,2.88,3.23,12.17
+147,kyle walker,DEF,3.03,3.35,0.0,2.84,2.93,12.15
 148,weston mckennie,MID,2.93,2.7,0.0,2.91,3.52,12.06
-149,jordan henderson,MID,2.82,3.59,0.0,2.59,3.06,12.06
-150,serge aurier,DEF,2.9,3.39,0.0,2.56,3.21,12.059999999999999
-151,joel ward,DEF,2.77,2.87,0.0,2.74,3.64,12.020000000000001
+149,serge aurier,DEF,2.9,3.39,0.0,2.56,3.21,12.06
+150,jordan henderson,MID,2.82,3.59,0.0,2.59,3.06,12.06
+151,joel ward,DEF,2.77,2.87,0.0,2.74,3.64,12.02
 152,cheick doucouré,MID,2.02,3.26,0.0,3.18,3.47,11.93
-153,theo walcott,MID,2.93,2.4,0.0,2.81,3.72,11.860000000000001
+153,theo walcott,MID,2.93,2.4,0.0,2.81,3.72,11.86
 154,tom cairney,MID,1.91,2.62,0.0,3.81,3.45,11.79
 155,cristian romero,DEF,2.84,3.33,0.0,3.4,2.14,11.71
 156,jorge luiz frello filho,MID,1.91,2.83,0.0,3.4,3.45,11.59
-157,oleksandr zinchenko,DEF,3.54,3.1,0.0,2.83,2.04,11.510000000000002
+157,oleksandr zinchenko,DEF,3.54,3.1,0.0,2.83,2.04,11.51
 158,youri tielemans,MID,3.2,2.89,0.0,2.16,3.25,11.5
 159,issa diop,DEF,1.66,3.51,0.0,3.48,2.85,11.5
-160,tosin adarabioyo,DEF,2.96,3.04,0.0,3.1,2.37,11.469999999999999
+160,tosin adarabioyo,DEF,2.96,3.04,0.0,3.1,2.37,11.47
 161,kenny tete,DEF,2.88,2.04,0.0,3.59,2.94,11.45
 162,james garner,MID,1.99,2.98,0.0,3.18,3.28,11.43
 163,aaron cresswell,DEF,2.79,3.13,0.0,3.66,1.84,11.42
@@ -170,17 +170,17 @@
 168,nayef aguerd,DEF,3.26,2.05,0.0,4.28,1.7,11.29
 169,phil foden,MID,1.51,2.88,0.0,3.85,3.0,11.24
 170,conor gallagher,MID,2.43,1.76,0.0,3.4,3.62,11.21
-171,felipe augusto de almeida monteiro,DEF,2.57,2.59,0.0,2.88,3.17,11.209999999999999
+171,felipe augusto de almeida monteiro,DEF,2.57,2.59,0.0,2.88,3.17,11.21
 172,rodrigo moreno,MID,2.56,2.14,0.0,2.67,3.71,11.08
 173,joe worrall,DEF,2.73,3.12,0.0,2.23,2.99,11.07
-174,joachim andersen,DEF,2.3,2.92,0.0,2.68,3.14,11.040000000000001
+174,joachim andersen,DEF,2.3,2.92,0.0,2.68,3.14,11.04
 175,luis díaz,MID,2.39,2.91,0.0,2.77,2.95,11.02
 176,anthony martial,FWD,2.12,3.14,0.0,2.3,3.42,10.98
-177,aaron hickey,DEF,2.02,2.64,0.0,2.85,3.46,10.969999999999999
+177,aaron hickey,DEF,2.02,2.64,0.0,2.85,3.46,10.97
 178,clément lenglet,DEF,2.87,1.68,0.0,3.53,2.86,10.94
-179,kyle walker-peters,DEF,2.9,2.71,0.0,2.45,2.88,10.939999999999998
+179,kyle walker-peters,DEF,2.9,2.71,0.0,2.45,2.88,10.94
 180,yoane wissa,MID,2.88,2.33,0.0,1.69,3.96,10.86
-181,diego da silva costa,FWD,3.15,2.45,0.0,3.22,1.97,10.790000000000001
+181,diego da silva costa,FWD,3.15,2.45,0.0,3.22,1.97,10.79
 182,çaglar söyüncü,DEF,3.18,3.15,0.0,2.63,1.77,10.73
 183,dejan kulusevski,MID,2.54,2.72,0.0,2.38,3.09,10.73
 184,angelo ogbonna,DEF,1.57,2.88,0.0,3.33,2.92,10.7
@@ -191,20 +191,20 @@
 189,kai havertz,FWD,1.47,2.7,0.0,3.46,2.95,10.58
 190,sean longstaff,MID,3.46,2.37,0.0,1.56,3.18,10.57
 191,kelechi iheanacho,FWD,4.04,2.35,0.0,1.44,2.73,10.56
-192,jan bednarek,DEF,2.85,2.7,0.0,2.39,2.59,10.530000000000001
-193,ivan perišić,DEF,2.99,3.54,0.0,2.15,1.85,10.53
-194,wesley fofana,DEF,2.58,2.95,0.0,2.06,2.88,10.469999999999999
+192,ivan perišić,DEF,2.99,3.54,0.0,2.15,1.85,10.53
+193,jan bednarek,DEF,2.85,2.7,0.0,2.39,2.59,10.53
+194,wesley fofana,DEF,2.58,2.95,0.0,2.06,2.88,10.47
 195,toti antónio gomes,DEF,1.63,1.79,0.0,3.89,3.11,10.42
 196,manuel akanji,DEF,3.27,2.58,0.0,3.06,1.47,10.38
-197,adam smith,DEF,1.87,3.12,0.0,3.1,2.29,10.379999999999999
+197,adam smith,DEF,1.87,3.12,0.0,3.1,2.29,10.38
 198,frank onyeka,MID,2.26,2.52,0.0,3.04,2.54,10.36
-199,thilo kehrer,DEF,1.08,3.15,0.0,3.64,2.48,10.350000000000001
+199,thilo kehrer,DEF,1.08,3.15,0.0,3.64,2.48,10.35
 200,bernardo veiga de carvalho e silva,MID,2.62,3.41,0.0,1.59,2.72,10.34
 201,danny ings,FWD,2.63,2.66,0.0,1.5,3.54,10.33
 202,moussa niakhaté,DEF,1.64,2.82,0.0,2.88,2.94,10.28
 203,thiago emiliano da silva,DEF,2.72,2.83,0.0,2.92,1.76,10.23
-204,noni madueke,MID,0.97,3.42,0.0,2.64,3.19,10.219999999999999
-205,marc roca junqué,MID,2.92,3.07,0.0,2.45,1.76,10.200000000000001
+204,noni madueke,MID,0.97,3.42,0.0,2.64,3.19,10.22
+205,marc roca junqué,MID,2.92,3.07,0.0,2.45,1.76,10.2
 206,vitalii mykolenko,DEF,2.56,2.81,0.0,2.94,1.77,10.08
 207,joe rothwell,MID,3.23,3.06,0.0,2.53,1.16,9.98
 208,diogo dalot teixeira,DEF,3.63,3.03,0.0,1.84,1.45,9.95
@@ -213,7 +213,7 @@
 211,richarlison de andrade,FWD,2.26,2.13,0.0,3.35,2.12,9.86
 212,raheem sterling,MID,2.87,2.74,0.0,2.5,1.75,9.86
 213,mathias jorgensen,DEF,3.59,1.4,0.0,2.91,1.93,9.83
-214,kevin schade,MID,1.9,2.77,0.0,2.05,3.09,9.809999999999999
+214,kevin schade,MID,1.9,2.77,0.0,2.05,3.09,9.81
 215,ben chilwell,DEF,3.12,3.16,0.0,2.51,0.99,9.78
 216,lyanco silveira neves vojnovic,DEF,1.74,2.32,0.0,2.38,3.22,9.66
 217,thomas partey,MID,3.35,1.83,0.0,1.36,3.11,9.65
@@ -228,7 +228,7 @@
 226,rasmus kristensen,DEF,1.43,2.32,0.0,2.7,2.97,9.42
 227,odsonne edouard,FWD,2.55,1.55,0.0,1.27,4.04,9.41
 228,crysencio summerville,MID,2.17,2.93,0.0,2.23,1.98,9.31
-229,illan meslier,GKP,3.09,3.23,0.0,1.98,0.99,9.290000000000001
+229,illan meslier,GKP,3.09,3.23,0.0,1.98,0.99,9.29
 230,kamaldeen sulemana,MID,1.81,2.95,0.0,2.33,2.17,9.26
 231,eric dier,DEF,3.03,2.99,0.0,2.23,0.99,9.24
 232,rúben gato alves dias,DEF,3.18,3.77,0.0,1.59,0.69,9.23
@@ -237,33 +237,33 @@
 235,wilfried gnonto,FWD,1.06,3.5,0.0,2.06,2.52,9.14
 236,nathan aké,DEF,1.17,4.03,0.0,2.52,1.33,9.05
 237,patson daka,FWD,2.29,2.09,0.0,2.27,2.35,9.0
-238,levi colwill,DEF,2.02,1.32,0.0,2.51,3.11,8.959999999999999
+238,levi colwill,DEF,2.02,1.32,0.0,2.51,3.11,8.96
 239,mateo kovacic,MID,3.01,3.41,0.0,1.48,0.9,8.8
 240,mykhailo mudryk,MID,2.24,2.14,0.0,2.11,2.28,8.77
-241,andreas hoelgebaum pereira,MID,3.62,2.32,0.0,1.72,1.07,8.729999999999999
+241,andreas hoelgebaum pereira,MID,3.62,2.32,0.0,1.72,1.07,8.73
 242,n'golo kanté,MID,2.73,3.04,0.0,2.05,0.87,8.69
-243,billy gilmour,MID,1.64,3.19,0.0,1.7,2.09,8.620000000000001
+243,billy gilmour,MID,1.64,3.19,0.0,1.7,2.09,8.62
 244,leander dendoncker,MID,3.18,2.5,0.0,1.67,1.26,8.61
 245,mohamed elyounoussi,MID,2.32,2.06,0.0,1.08,3.14,8.6
 246,jaidon anthony,MID,1.43,2.55,0.0,1.59,3.03,8.6
 247,junior firpo adames,DEF,2.94,1.24,0.0,2.89,1.51,8.58
-248,bobby de cordova-reid,MID,2.82,2.49,0.0,2.09,1.13,8.530000000000001
+248,bobby de cordova-reid,MID,2.82,2.49,0.0,2.09,1.13,8.53
 249,césar azpilicueta,DEF,1.18,2.51,0.0,2.06,2.78,8.53
 250,joël veltman,DEF,2.44,1.97,0.0,2.41,1.69,8.51
 251,jakub kiwior,DEF,0.38,2.54,0.0,3.04,2.53,8.49
 252,emerson leite de souza junior,DEF,0.81,0.71,0.0,3.71,3.24,8.47
-253,tyrell malacia,DEF,2.62,1.9,0.0,2.09,1.85,8.459999999999999
-254,wilfred ndidi,MID,1.24,2.02,0.0,2.11,3.09,8.459999999999999
+253,tyrell malacia,DEF,2.62,1.9,0.0,2.09,1.85,8.46
+254,wilfred ndidi,MID,1.24,2.02,0.0,2.11,3.09,8.46
 255,wilfried zaha,MID,0.45,3.27,0.0,3.02,1.58,8.32
 256,marcus tavernier,MID,4.13,2.05,0.0,1.13,0.98,8.29
 257,evan ferguson,FWD,1.46,0.96,0.0,2.94,2.92,8.28
 258,victor kristiansen,DEF,3.24,1.59,0.0,2.01,1.43,8.27
 259,ainsley maitland-niles,MID,1.89,1.9,0.0,2.84,1.61,8.24
-260,kurt zouma,DEF,2.78,1.56,0.0,1.27,2.54,8.149999999999999
+260,kurt zouma,DEF,2.78,1.56,0.0,1.27,2.54,8.15
 261,amadou onana,MID,2.43,1.37,0.0,1.16,3.15,8.11
 262,emerson palmieri dos santos,DEF,0.93,2.88,0.0,1.56,2.64,8.01
-263,hugo bueno lópez,DEF,2.96,2.94,0.0,1.54,0.53,7.970000000000001
-264,tim ream,DEF,3.52,2.15,0.0,1.54,0.76,7.97
+263,tim ream,DEF,3.52,2.15,0.0,1.54,0.76,7.97
+264,hugo bueno lópez,DEF,2.96,2.94,0.0,1.54,0.53,7.97
 265,frederico rodrigues de paula santos,MID,1.72,2.75,0.0,1.51,1.95,7.93
 266,josh dasilva,MID,1.07,2.84,0.0,2.2,1.75,7.86
 267,manor solomon,MID,2.81,2.27,0.0,1.29,1.48,7.85
@@ -271,10 +271,10 @@
 269,joão victor gomes da silva,MID,1.87,2.13,0.0,1.01,2.74,7.75
 270,maximilian wöber,DEF,1.06,1.29,0.0,2.51,2.82,7.68
 271,joão félix sequeira,FWD,2.03,1.11,0.0,1.53,2.96,7.63
-272,shandon baptiste,MID,2.3,1.97,0.0,1.32,2.03,7.619999999999999
+272,shandon baptiste,MID,2.3,1.97,0.0,1.32,2.03,7.62
 273,daniel castelo podence,MID,0.84,2.35,0.0,1.5,2.81,7.5
-274,mikkel damsgaard,MID,2.02,2.03,0.0,1.39,2.0,7.4399999999999995
-275,ben davies,DEF,1.54,1.82,0.0,2.14,1.94,7.4399999999999995
+274,mikkel damsgaard,MID,2.02,2.03,0.0,1.39,2.0,7.44
+275,ben davies,DEF,1.54,1.82,0.0,2.14,1.94,7.44
 276,adam armstrong,FWD,2.7,1.97,0.0,1.75,0.99,7.41
 277,cheikhou kouyaté,MID,1.76,1.92,0.0,1.87,1.83,7.38
 278,adam forshaw,MID,0.52,1.69,0.0,2.77,2.34,7.32
@@ -284,57 +284,57 @@
 282,bertrand traoré,MID,1.48,2.01,0.0,2.26,1.41,7.16
 283,lewis cook,MID,0.78,1.66,0.0,1.99,2.67,7.1
 284,demarai gray,MID,2.14,1.62,0.0,1.02,2.3,7.08
-285,mateus cardoso lemos martins,MID,2.79,1.47,0.0,1.89,0.92,7.069999999999999
+285,mateus cardoso lemos martins,MID,2.79,1.47,0.0,1.89,0.92,7.07
 286,brenden aaronson,MID,2.32,1.32,0.0,1.16,2.2,7.0
-287,rob holding,DEF,3.43,1.81,0.0,0.83,0.81,6.880000000000001
+287,rob holding,DEF,3.43,1.81,0.0,0.83,0.81,6.88
 288,raphaël varane,DEF,0.65,0.76,0.0,2.16,3.28,6.85
 289,konstantinos tsimikas,DEF,0.79,2.39,0.0,1.7,1.86,6.74
-290,sasa lukic,MID,1.16,2.65,0.0,1.89,1.04,6.739999999999999
+290,sasa lukic,MID,1.16,2.65,0.0,1.89,1.04,6.74
 291,adama traoré diarra,MID,1.52,0.89,0.0,1.09,3.23,6.73
 292,marcel sabitzer,MID,2.08,1.89,0.0,1.66,1.08,6.71
-293,chris mepham,DEF,3.43,1.92,0.0,0.73,0.56,6.640000000000001
+293,chris mepham,DEF,3.43,1.92,0.0,0.73,0.56,6.64
 294,ryan yates,MID,0.34,0.77,0.0,2.42,3.08,6.61
 295,arnaut danjuma,MID,1.77,1.47,0.0,1.23,2.1,6.57
-296,daniel james,MID,2.68,1.68,0.0,1.17,1.03,6.5600000000000005
+296,daniel james,MID,2.68,1.68,0.0,1.17,1.03,6.56
 297,mads roerslev rasmussen,DEF,3.36,1.43,0.0,0.7,0.91,6.4
-298,joel robles,GKP,0.16,0.16,0.0,2.7,3.34,6.359999999999999
+298,joel robles,GKP,0.16,0.16,0.0,2.7,3.34,6.36
 299,eddie nketiah,FWD,2.01,1.09,0.0,1.02,2.22,6.34
 300,rico lewis,DEF,0.21,0.25,0.0,2.93,2.93,6.32
 301,yerry mina,DEF,0.17,0.15,0.0,2.37,3.55,6.24
 302,lucas digne,DEF,1.53,1.66,0.0,1.29,1.75,6.23
-303,kieran tierney,DEF,0.71,1.58,0.0,1.9,2.01,6.199999999999999
-304,anthony gordon,MID,1.33,1.97,0.0,1.73,1.05,6.079999999999999
+303,kieran tierney,DEF,0.71,1.58,0.0,1.9,2.01,6.2
+304,anthony gordon,MID,1.33,1.97,0.0,1.73,1.05,6.08
 305,nathan collins,DEF,0.7,1.55,0.0,1.1,2.52,5.87
-306,reiss nelson,MID,1.39,2.0,0.0,1.58,0.89,5.859999999999999
-307,leon bailey,MID,1.07,0.62,0.0,1.94,2.23,5.859999999999999
-308,aymeric laporte,DEF,0.88,0.38,0.0,2.97,1.53,5.760000000000001
-309,cédric alves soares,DEF,1.15,2.85,0.0,1.33,0.43,5.76
+306,reiss nelson,MID,1.39,2.0,0.0,1.58,0.89,5.86
+307,leon bailey,MID,1.07,0.62,0.0,1.94,2.23,5.86
+308,cédric alves soares,DEF,1.15,2.85,0.0,1.33,0.43,5.76
+309,aymeric laporte,DEF,0.88,0.38,0.0,2.97,1.53,5.76
 310,duje caleta-car,DEF,2.88,1.55,0.0,0.67,0.58,5.68
-311,neco williams,DEF,2.49,1.7,0.0,0.86,0.49,5.540000000000001
-312,elliot anderson,MID,0.96,0.8,0.0,0.96,2.73,5.449999999999999
+311,neco williams,DEF,2.49,1.7,0.0,0.86,0.49,5.54
+312,elliot anderson,MID,0.96,0.8,0.0,0.96,2.73,5.45
 313,kieffer moore,FWD,1.02,1.67,0.0,0.84,1.82,5.35
 314,wout weghorst,FWD,1.46,0.87,0.0,2.0,1.01,5.34
 315,pablo sarabia,MID,1.49,0.67,0.0,0.76,2.42,5.34
 316,lewis hall,MID,0.16,0.18,0.0,1.42,3.58,5.34
 317,flynn downes,MID,0.71,2.74,0.0,1.34,0.54,5.33
-318,liam cooper,DEF,2.49,1.65,0.0,0.7,0.47,5.3100000000000005
+318,liam cooper,DEF,2.49,1.65,0.0,0.7,0.47,5.31
 319,matt targett,DEF,2.36,1.45,0.0,0.97,0.49,5.27
 320,aleksandar mitrović,FWD,0.5,0.49,0.0,0.49,3.77,5.25
 321,illia zabarnyi,DEF,1.5,0.69,0.0,0.48,2.54,5.21
 322,dennis praet,MID,1.35,0.96,0.0,1.89,0.99,5.19
 323,allan saint-maximin,MID,1.01,0.81,0.0,1.52,1.78,5.12
 324,ben godfrey,DEF,2.12,1.23,0.0,0.9,0.8,5.05
-325,luka milivojevic,MID,2.13,1.55,0.0,0.69,0.57,4.9399999999999995
+325,luka milivojevic,MID,2.13,1.55,0.0,0.69,0.57,4.94
 326,cole palmer,MID,0.59,0.39,0.0,1.73,2.21,4.92
 327,matty cash,DEF,0.66,0.66,0.0,0.5,3.09,4.91
-328,joel matip,DEF,2.56,1.06,0.0,0.79,0.48,4.890000000000001
-329,christian nørgaard,MID,1.96,1.27,0.0,0.94,0.72,4.89
+328,christian nørgaard,MID,1.96,1.27,0.0,0.94,0.72,4.89
+329,joel matip,DEF,2.56,1.06,0.0,0.79,0.48,4.89
 330,benoît badiashile,DEF,1.15,0.5,0.0,2.13,1.09,4.87
 331,harvey elliott,MID,1.44,1.64,0.0,0.8,0.96,4.84
-332,gavin bazunu,GKP,2.0,1.34,0.0,0.77,0.72,4.829999999999999
+332,gavin bazunu,GKP,2.0,1.34,0.0,0.77,0.72,4.83
 333,hakim ziyech,MID,0.62,1.23,0.0,1.47,1.39,4.71
-334,moussa djenepo,MID,0.7,2.2,0.0,1.15,0.64,4.69
-335,pierre-emerick aubameyang,FWD,1.67,1.96,0.0,0.67,0.39,4.6899999999999995
+334,pierre-emerick aubameyang,FWD,1.67,1.96,0.0,0.67,0.39,4.69
+335,moussa djenepo,MID,0.7,2.2,0.0,1.15,0.64,4.69
 336,roberto firmino,FWD,1.13,0.81,0.0,0.58,2.16,4.68
 337,ruben loftus-cheek,MID,0.33,0.34,0.0,2.2,1.75,4.62
 338,kalvin phillips,MID,0.74,0.73,0.0,1.6,1.54,4.61
@@ -342,7 +342,7 @@
 340,davinson sánchez,DEF,1.21,0.53,0.0,0.38,2.41,4.53
 341,calum chambers,DEF,1.15,1.86,0.0,0.9,0.61,4.52
 342,james milner,MID,0.94,0.96,0.0,0.91,1.69,4.5
-343,chris richards,DEF,2.68,1.0,0.0,0.38,0.41,4.470000000000001
+343,chris richards,DEF,2.68,1.0,0.0,0.38,0.41,4.47
 344,harry souttar,DEF,0.58,0.47,0.0,0.21,3.17,4.43
 345,boubacar kamara,MID,0.32,0.39,0.0,0.69,3.01,4.41
 346,kiernan dewsbury-hall,MID,1.24,0.74,0.0,1.53,0.82,4.33
@@ -357,35 +357,35 @@
 355,albert sambi lokonga,MID,1.98,1.17,0.0,0.39,0.42,3.96
 356,christian pulisic,MID,0.82,0.64,0.0,0.53,1.88,3.87
 357,neal maupay,FWD,1.55,0.74,0.0,0.79,0.73,3.81
-358,remo freuler,MID,1.64,0.87,0.0,0.76,0.48,3.7499999999999996
+358,remo freuler,MID,1.64,0.87,0.0,0.76,0.48,3.75
 359,antoine semenyo,FWD,0.5,1.28,0.0,1.2,0.69,3.67
-360,hugo lloris,GKP,1.49,0.95,0.0,0.7,0.5,3.6399999999999997
-361,joão filipe iria santos moutinho,MID,1.18,0.82,0.0,1.07,0.56,3.6300000000000003
+360,hugo lloris,GKP,1.49,0.95,0.0,0.7,0.5,3.64
+361,joão filipe iria santos moutinho,MID,1.18,0.82,0.0,1.07,0.56,3.63
 362,alejandro garnacho,MID,0.51,0.35,0.0,0.98,1.78,3.62
-363,harry maguire,DEF,1.5,0.67,0.0,0.8,0.65,3.6199999999999997
+363,harry maguire,DEF,1.5,0.67,0.0,0.8,0.65,3.62
 364,jan paul van hecke,DEF,0.43,0.38,0.0,0.42,2.38,3.61
 365,emmanuel dennis,FWD,0.87,1.11,0.0,0.94,0.67,3.59
-366,pape matar sarr,MID,0.66,1.77,0.0,0.76,0.39,3.5800000000000005
+366,pape matar sarr,MID,0.66,1.77,0.0,0.76,0.39,3.58
 367,jean-philippe mateta,FWD,1.45,0.71,0.0,0.54,0.86,3.56
 368,carney chukwuemeka,MID,0.16,0.18,0.0,0.33,2.86,3.53
-369,scott mctominay,MID,0.84,0.57,0.0,0.91,1.2,3.5199999999999996
+369,scott mctominay,MID,0.84,0.57,0.0,0.91,1.2,3.52
 370,fábio ferreira vieira,MID,0.95,0.64,0.0,0.41,1.51,3.51
 371,daniel bentley,GKP,0.16,0.26,0.0,0.26,2.79,3.47
 372,matthew dibley-dias,MID,0.0,2.2,0.0,0.71,0.51,3.42
-373,joe ayodele-aribo,MID,0.44,0.29,0.0,0.24,2.42,3.3899999999999997
+373,joe ayodele-aribo,MID,0.44,0.29,0.0,0.24,2.42,3.39
 374,paul onuachu,FWD,0.82,0.52,0.0,1.33,0.7,3.37
-375,jack stephens,DEF,1.34,0.8,0.0,0.77,0.43,3.3400000000000003
-376,ben johnson,DEF,0.32,1.39,0.0,0.89,0.72,3.3200000000000003
+375,jack stephens,DEF,1.34,0.8,0.0,0.77,0.43,3.34
+376,ben johnson,DEF,0.32,1.39,0.0,0.89,0.72,3.32
 377,kamari doyle,MID,0.0,0.0,0.0,2.18,1.11,3.29
 378,jhon durán,FWD,0.16,1.18,0.0,0.95,0.96,3.25
-379,emile smith rowe,MID,1.55,0.72,0.0,0.55,0.39,3.2100000000000004
+379,emile smith rowe,MID,1.55,0.72,0.0,0.55,0.39,3.21
 380,yves bissouma,MID,0.16,0.26,0.0,0.26,2.52,3.2
 381,reece james,DEF,0.99,0.78,0.0,0.51,0.8,3.08
-382,william saliba,DEF,0.98,0.86,0.0,0.59,0.65,3.0799999999999996
-383,maxwel cornet,MID,1.54,0.68,0.0,0.54,0.31,3.0700000000000003
-384,vicente guaita,GKP,1.16,0.65,0.0,0.64,0.56,3.0100000000000002
+382,william saliba,DEF,0.98,0.86,0.0,0.59,0.65,3.08
+383,maxwel cornet,MID,1.54,0.68,0.0,0.54,0.31,3.07
+384,vicente guaita,GKP,1.16,0.65,0.0,0.64,0.56,3.01
 385,sam greenwood,FWD,0.16,0.16,0.0,1.63,1.04,2.99
-386,willy boly,DEF,0.42,0.54,0.0,0.76,1.21,2.9299999999999997
+386,willy boly,DEF,0.42,0.54,0.0,0.76,1.21,2.93
 387,mason holgate,DEF,1.23,0.53,0.0,0.35,0.79,2.9
 388,mauro bandeira,MID,0.0,0.0,0.0,2.18,0.71,2.89
 389,sean mcallister,MID,0.0,0.0,0.0,2.18,0.71,2.89
@@ -397,16 +397,16 @@
 395,danny ward,GKP,1.06,0.87,0.0,0.36,0.46,2.75
 396,thiago alcántara do nascimento,MID,1.54,0.62,0.0,0.42,0.16,2.74
 397,cameron peupion,MID,1.46,0.56,0.0,0.39,0.32,2.73
-398,saman ghoddos,MID,0.49,1.14,0.0,0.6,0.49,2.7199999999999998
-399,james bree,DEF,0.15,0.15,0.0,0.17,2.17,2.6399999999999997
+398,saman ghoddos,MID,0.49,1.14,0.0,0.6,0.49,2.72
+399,james bree,DEF,0.15,0.15,0.0,0.17,2.17,2.64
 400,samuel edozie,MID,0.41,0.31,0.0,1.2,0.7,2.62
-401,diego carlos santos silva,DEF,0.15,0.15,0.0,1.62,0.69,2.6100000000000003
-402,marc cucurella saseta,DEF,0.96,0.68,0.0,0.45,0.52,2.6100000000000003
+401,diego carlos santos silva,DEF,0.15,0.15,0.0,1.62,0.69,2.61
+402,marc cucurella saseta,DEF,0.96,0.68,0.0,0.45,0.52,2.61
 403,harry toffolo,DEF,0.61,0.55,0.0,0.92,0.51,2.59
 404,ellis simms,FWD,0.98,0.52,0.0,0.51,0.56,2.57
 405,nampalys mendy,MID,0.74,0.66,0.0,0.38,0.76,2.54
 406,nathaniel clyne,DEF,1.01,0.51,0.0,0.42,0.38,2.32
-407,mason mount,MID,0.81,0.8,0.0,0.38,0.28,2.2700000000000005
+407,mason mount,MID,0.81,0.8,0.0,0.38,0.28,2.27
 408,sam surridge,FWD,0.56,0.64,0.0,0.73,0.29,2.22
 409,samuel amo-ameyaw,MID,0.0,0.0,0.0,0.0,2.2,2.2
 410,yago de santiago alonso,MID,0.0,0.0,0.0,0.0,2.18,2.18
@@ -416,363 +416,363 @@
 414,raúl jiménez,FWD,0.67,0.58,0.0,0.43,0.32,2.0
 415,ethan wady,GKP,0.0,0.0,0.0,1.42,0.56,1.98
 416,alfie gilchrist,DEF,0.0,0.0,0.0,1.41,0.55,1.96
-417,sékou mara,FWD,0.57,0.48,0.0,0.46,0.44,1.9499999999999997
-418,nico o'reilly,MID,0.0,0.0,0.0,1.43,0.51,1.94
+417,sékou mara,FWD,0.57,0.48,0.0,0.46,0.44,1.95
+418,alex robertson,MID,0.0,0.0,0.0,1.43,0.51,1.94
 419,imari samuels,DEF,0.0,0.0,0.0,1.44,0.5,1.94
-420,shea charles,MID,0.0,0.0,0.0,1.43,0.51,1.94
-421,alex robertson,MID,0.0,0.0,0.0,1.43,0.51,1.94
+420,nico o'reilly,MID,0.0,0.0,0.0,1.43,0.51,1.94
+421,shea charles,MID,0.0,0.0,0.0,1.43,0.51,1.94
 422,joseph gomez,DEF,0.57,0.52,0.0,0.48,0.35,1.92
-423,jonathan castro otto,DEF,0.44,0.57,0.0,0.57,0.32,1.9000000000000001
-424,jamaal lascelles,DEF,0.75,0.48,0.0,0.38,0.2,1.8099999999999998
-425,manuel lanzini,MID,0.17,0.26,0.0,0.26,1.09,1.7800000000000002
-426,chris wood,FWD,0.6,0.46,0.0,0.46,0.26,1.78
+423,jonathan castro otto,DEF,0.44,0.57,0.0,0.57,0.32,1.9
+424,jamaal lascelles,DEF,0.75,0.48,0.0,0.38,0.2,1.81
+425,chris wood,FWD,0.6,0.46,0.0,0.46,0.26,1.78
+426,manuel lanzini,MID,0.17,0.26,0.0,0.26,1.09,1.78
 427,japhet tanganga,DEF,0.62,0.38,0.0,0.48,0.28,1.76
-428,javier manquillo gaitán,DEF,0.69,0.48,0.0,0.38,0.2,1.7499999999999998
-429,matt ritchie,DEF,0.38,0.59,0.0,0.38,0.34,1.6900000000000002
+428,javier manquillo gaitán,DEF,0.69,0.48,0.0,0.38,0.2,1.75
+429,matt ritchie,DEF,0.38,0.59,0.0,0.38,0.34,1.69
 430,shane duffy,DEF,0.21,0.25,0.0,0.75,0.46,1.67
 431,matthew craig,MID,0.0,0.0,0.0,1.28,0.35,1.63
 432,tom mcgill,GKP,0.48,0.39,0.0,0.39,0.32,1.58
-433,robin olsen,GKP,0.6,0.39,0.0,0.31,0.26,1.56
-434,jonjo shelvey,MID,0.48,0.43,0.0,0.43,0.22,1.5599999999999998
+433,jonjo shelvey,MID,0.48,0.43,0.0,0.43,0.22,1.56
+434,robin olsen,GKP,0.6,0.39,0.0,0.31,0.26,1.56
 435,jack stacey,DEF,0.25,0.59,0.0,0.38,0.31,1.53
-436,yasin ayari,MID,0.5,0.39,0.0,0.44,0.19,1.52
-437,marc jurado gomez,DEF,0.44,0.32,0.0,0.38,0.38,1.52
+436,marc jurado gomez,DEF,0.44,0.32,0.0,0.38,0.38,1.52
+437,yasin ayari,MID,0.5,0.39,0.0,0.44,0.19,1.52
 438,tino livramento,DEF,0.15,0.15,0.0,0.17,1.05,1.52
 439,adam lallana,MID,0.54,0.46,0.0,0.32,0.19,1.51
 440,odeluga offiah,DEF,0.49,0.48,0.0,0.32,0.18,1.47
-441,daniel amartey,DEF,0.54,0.29,0.0,0.32,0.31,1.4600000000000002
+441,daniel amartey,DEF,0.54,0.29,0.0,0.32,0.31,1.46
 442,reuell walters,DEF,0.38,0.32,0.0,0.36,0.38,1.44
-443,michael olakigbe,MID,0.39,0.33,0.0,0.32,0.39,1.4300000000000002
-444,george abbott,MID,0.33,0.39,0.0,0.39,0.32,1.43
-445,tayo adaramola,DEF,0.0,0.0,0.0,1.11,0.28,1.3900000000000001
+443,george abbott,MID,0.33,0.39,0.0,0.39,0.32,1.43
+444,michael olakigbe,MID,0.39,0.33,0.0,0.32,0.39,1.43
+445,tayo adaramola,DEF,0.0,0.0,0.0,1.11,0.28,1.39
 446,travis patterson,MID,0.33,0.32,0.0,0.33,0.39,1.37
-447,james wright,GKP,0.32,0.32,0.0,0.33,0.39,1.3599999999999999
-448,georginio rutter,FWD,0.62,0.29,0.0,0.18,0.26,1.3499999999999999
-449,stefan bajcetic,MID,0.45,0.42,0.0,0.29,0.18,1.3399999999999999
-450,ishé samuels-smith,DEF,0.32,0.3,0.0,0.32,0.38,1.3199999999999998
+447,james wright,GKP,0.32,0.32,0.0,0.33,0.39,1.36
+448,georginio rutter,FWD,0.62,0.29,0.0,0.18,0.26,1.35
+449,stefan bajcetic,MID,0.45,0.42,0.0,0.29,0.18,1.34
+450,ishé samuels-smith,DEF,0.32,0.3,0.0,0.32,0.38,1.32
 451,tyler adams,MID,0.35,0.32,0.0,0.28,0.36,1.31
 452,hamed traorè,MID,0.42,0.32,0.0,0.32,0.24,1.3
-453,sebastian revan,DEF,0.3,0.3,0.0,0.32,0.38,1.2999999999999998
+453,sebastian revan,DEF,0.3,0.3,0.0,0.32,0.38,1.3
 454,tom davies,MID,0.54,0.29,0.0,0.18,0.26,1.27
-455,romaine mundle,MID,0.32,0.39,0.0,0.39,0.16,1.26
-456,charlie robinson,DEF,0.35,0.38,0.0,0.38,0.15,1.2599999999999998
-457,jordan zemura,DEF,0.41,0.35,0.0,0.27,0.19,1.22
-458,jesse lingard,MID,0.41,0.39,0.0,0.26,0.16,1.22
+455,charlie robinson,DEF,0.35,0.38,0.0,0.38,0.15,1.26
+456,romaine mundle,MID,0.32,0.39,0.0,0.39,0.16,1.26
+457,jesse lingard,MID,0.41,0.39,0.0,0.26,0.16,1.22
+458,jordan zemura,DEF,0.41,0.35,0.0,0.27,0.19,1.22
 459,divin mubama,FWD,0.17,0.26,0.0,0.26,0.52,1.21
 460,rodrigo bentancur,MID,0.36,0.43,0.0,0.26,0.16,1.21
 461,wayne hennessey,GKP,0.18,0.26,0.0,0.26,0.5,1.2
-462,boubacar traoré,MID,0.16,0.26,0.0,0.26,0.5,1.1800000000000002
-463,mark gillespie,GKP,0.0,0.0,0.0,0.0,1.18,1.18
+462,mark gillespie,GKP,0.0,0.0,0.0,0.0,1.18,1.18
+463,boubacar traoré,MID,0.16,0.26,0.0,0.26,0.5,1.18
 464,george wickens,GKP,0.36,0.39,0.0,0.26,0.16,1.17
-465,conor coady,DEF,0.27,0.25,0.0,0.27,0.35,1.1400000000000001
-466,george shelvey,GKP,0.33,0.39,0.0,0.26,0.16,1.14
+465,george shelvey,GKP,0.33,0.39,0.0,0.26,0.16,1.14
+466,conor coady,DEF,0.27,0.25,0.0,0.27,0.35,1.14
 467,joseph whitworth,GKP,0.32,0.24,0.0,0.22,0.35,1.13
-468,james tomkins,DEF,0.39,0.3,0.0,0.15,0.28,1.12
-469,matt doherty,DEF,0.25,0.35,0.0,0.35,0.17,1.1199999999999999
-470,alex oxlade-chamberlain,MID,0.36,0.28,0.0,0.31,0.16,1.1099999999999999
-471,martin dubravka,GKP,0.37,0.26,0.0,0.26,0.21,1.1
+468,matt doherty,DEF,0.25,0.35,0.0,0.35,0.17,1.12
+469,james tomkins,DEF,0.39,0.3,0.0,0.15,0.28,1.12
+470,alex oxlade-chamberlain,MID,0.36,0.28,0.0,0.31,0.16,1.11
+471,david datro fofana,FWD,0.16,0.18,0.0,0.16,0.6,1.1
 472,dean henderson,GKP,0.28,0.36,0.0,0.28,0.18,1.1
-473,david datro fofana,FWD,0.16,0.18,0.0,0.16,0.6,1.1
-474,alphonse areola,GKP,0.34,0.32,0.0,0.26,0.18,1.1
-475,rayan aït-nouri,DEF,0.25,0.27,0.0,0.35,0.15,1.02
-476,james mcarthur,MID,0.39,0.18,0.0,0.16,0.29,1.02
+473,alphonse areola,GKP,0.34,0.32,0.0,0.26,0.18,1.1
+474,martin dubravka,GKP,0.37,0.26,0.0,0.26,0.21,1.1
+475,james mcarthur,MID,0.39,0.18,0.0,0.16,0.29,1.02
+476,rayan aït-nouri,DEF,0.25,0.27,0.0,0.35,0.15,1.02
 477,mark travers,GKP,0.28,0.28,0.0,0.26,0.18,1.0
-478,dwight gayle,FWD,0.26,0.26,0.0,0.26,0.21,0.99
-479,karl darlow,GKP,0.26,0.26,0.0,0.26,0.21,0.99
-480,jeff hendrick,MID,0.26,0.26,0.0,0.26,0.21,0.99
-481,loris karius,GKP,0.26,0.26,0.0,0.26,0.21,0.99
-482,ryan fraser,MID,0.26,0.26,0.0,0.26,0.21,0.99
-483,garang kuol,MID,0.26,0.26,0.0,0.26,0.21,0.99
-484,lewis miley,MID,0.26,0.26,0.0,0.26,0.21,0.99
+478,loris karius,GKP,0.26,0.26,0.0,0.26,0.21,0.99
+479,garang kuol,MID,0.26,0.26,0.0,0.26,0.21,0.99
+480,ryan fraser,MID,0.26,0.26,0.0,0.26,0.21,0.99
+481,lewis miley,MID,0.26,0.26,0.0,0.26,0.21,0.99
+482,dwight gayle,FWD,0.26,0.26,0.0,0.26,0.21,0.99
+483,karl darlow,GKP,0.26,0.26,0.0,0.26,0.21,0.99
+484,jeff hendrick,MID,0.26,0.26,0.0,0.26,0.21,0.99
 485,jeremy sarmiento morante,MID,0.27,0.26,0.0,0.26,0.19,0.98
-486,bobby clark,MID,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-487,fábio freitas gouveia carvalho,MID,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-488,arthur henrique ramos de oliveira melo,MID,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-489,ben doak,MID,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-490,caoimhin kelleher,GKP,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-491,harvey davies,GKP,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-492,naby keita,MID,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-493,adrián san miguel del castillo,GKP,0.26,0.26,0.0,0.29,0.16,0.9700000000000001
-494,jakub moder,MID,0.26,0.26,0.0,0.26,0.19,0.97
-495,jack hinshelwood,MID,0.26,0.26,0.0,0.26,0.19,0.97
-496,steven alzate,MID,0.26,0.26,0.0,0.26,0.19,0.97
-497,kacper kozłowski,MID,0.26,0.26,0.0,0.26,0.19,0.97
-498,kjell scherpen,GKP,0.26,0.26,0.0,0.26,0.19,0.97
-499,enock mwepu,MID,0.26,0.26,0.0,0.26,0.19,0.97
-500,ibrahima diallo,MID,0.29,0.24,0.0,0.18,0.26,0.97
-501,andrew moran,MID,0.26,0.26,0.0,0.26,0.19,0.97
+486,jakub moder,MID,0.26,0.26,0.0,0.26,0.19,0.97
+487,steven alzate,MID,0.26,0.26,0.0,0.26,0.19,0.97
+488,kacper kozłowski,MID,0.26,0.26,0.0,0.26,0.19,0.97
+489,ben doak,MID,0.26,0.26,0.0,0.29,0.16,0.97
+490,jack hinshelwood,MID,0.26,0.26,0.0,0.26,0.19,0.97
+491,arthur henrique ramos de oliveira melo,MID,0.26,0.26,0.0,0.29,0.16,0.97
+492,ibrahima diallo,MID,0.29,0.24,0.0,0.18,0.26,0.97
+493,kjell scherpen,GKP,0.26,0.26,0.0,0.26,0.19,0.97
+494,harvey davies,GKP,0.26,0.26,0.0,0.29,0.16,0.97
+495,adrián san miguel del castillo,GKP,0.26,0.26,0.0,0.29,0.16,0.97
+496,naby keita,MID,0.26,0.26,0.0,0.29,0.16,0.97
+497,fábio freitas gouveia carvalho,MID,0.26,0.26,0.0,0.29,0.16,0.97
+498,enock mwepu,MID,0.26,0.26,0.0,0.26,0.19,0.97
+499,caoimhin kelleher,GKP,0.26,0.26,0.0,0.29,0.16,0.97
+500,andrew moran,MID,0.26,0.26,0.0,0.26,0.19,0.97
+501,bobby clark,MID,0.26,0.26,0.0,0.29,0.16,0.97
 502,taylor richards,MID,0.26,0.26,0.0,0.26,0.19,0.97
-503,christian saydee,FWD,0.26,0.26,0.0,0.26,0.18,0.96
-504,daniel adu-adjei,FWD,0.26,0.26,0.0,0.26,0.18,0.96
-505,will dennis,GKP,0.26,0.26,0.0,0.26,0.18,0.96
-506,siriki dembélé,MID,0.26,0.26,0.0,0.26,0.18,0.96
-507,jamal lowe,MID,0.26,0.26,0.0,0.26,0.18,0.96
-508,junior stanislas,MID,0.26,0.26,0.0,0.26,0.18,0.96
-509,michael dacosta gonzalez,MID,0.26,0.26,0.0,0.26,0.18,0.96
-510,emiliano marcondes,MID,0.26,0.26,0.0,0.26,0.18,0.96
-511,ben pearson,MID,0.26,0.26,0.0,0.26,0.18,0.96
-512,darren randolph,GKP,0.26,0.26,0.0,0.26,0.18,0.96
-513,dominic sadi,FWD,0.26,0.26,0.0,0.26,0.18,0.96
-514,euan pollock,FWD,0.26,0.26,0.0,0.26,0.18,0.96
-515,cameron plain,GKP,0.26,0.26,0.0,0.26,0.18,0.96
-516,jamal lewis,DEF,0.25,0.25,0.0,0.25,0.2,0.95
-517,paul dummett,DEF,0.25,0.25,0.0,0.25,0.2,0.95
-518,federico fernández,DEF,0.25,0.25,0.0,0.25,0.2,0.95
-519,emil krafth,DEF,0.25,0.25,0.0,0.25,0.2,0.95
-520,ciaran clark,DEF,0.25,0.25,0.0,0.25,0.2,0.95
-521,harrison ashby,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+503,siriki dembélé,MID,0.26,0.26,0.0,0.26,0.18,0.96
+504,michael dacosta gonzalez,MID,0.26,0.26,0.0,0.26,0.18,0.96
+505,ben pearson,MID,0.26,0.26,0.0,0.26,0.18,0.96
+506,jamal lowe,MID,0.26,0.26,0.0,0.26,0.18,0.96
+507,dominic sadi,FWD,0.26,0.26,0.0,0.26,0.18,0.96
+508,euan pollock,FWD,0.26,0.26,0.0,0.26,0.18,0.96
+509,will dennis,GKP,0.26,0.26,0.0,0.26,0.18,0.96
+510,cameron plain,GKP,0.26,0.26,0.0,0.26,0.18,0.96
+511,emiliano marcondes,MID,0.26,0.26,0.0,0.26,0.18,0.96
+512,christian saydee,FWD,0.26,0.26,0.0,0.26,0.18,0.96
+513,daniel adu-adjei,FWD,0.26,0.26,0.0,0.26,0.18,0.96
+514,darren randolph,GKP,0.26,0.26,0.0,0.26,0.18,0.96
+515,junior stanislas,MID,0.26,0.26,0.0,0.26,0.18,0.96
+516,harrison ashby,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+517,jamal lewis,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+518,paul dummett,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+519,ciaran clark,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+520,emil krafth,DEF,0.25,0.25,0.0,0.25,0.2,0.95
+521,federico fernández,DEF,0.25,0.25,0.0,0.25,0.2,0.95
 522,tommi o'reilly,MID,0.22,0.25,0.0,0.21,0.26,0.94
 523,tariq lamptey,DEF,0.25,0.25,0.0,0.26,0.18,0.94
-524,luke chambers,DEF,0.25,0.25,0.0,0.28,0.15,0.93
+524,kristoffer ajer,DEF,0.27,0.22,0.0,0.17,0.27,0.93
 525,nathaniel phillips,DEF,0.25,0.25,0.0,0.28,0.15,0.93
-526,calvin ramsay,DEF,0.25,0.25,0.0,0.28,0.15,0.93
-527,sepp van den berg,DEF,0.25,0.25,0.0,0.28,0.15,0.93
-528,kristoffer ajer,DEF,0.27,0.22,0.0,0.17,0.27,0.93
-529,rhys williams,DEF,0.25,0.25,0.0,0.28,0.15,0.93
-530,ed turns,DEF,0.25,0.25,0.0,0.25,0.18,0.9299999999999999
-531,matt clarke,DEF,0.25,0.25,0.0,0.25,0.18,0.9299999999999999
-532,james furlong,DEF,0.25,0.25,0.0,0.25,0.18,0.9299999999999999
-533,haydon roberts,DEF,0.25,0.25,0.0,0.25,0.18,0.9299999999999999
-534,marcus oliveira alencar,MID,0.26,0.18,0.0,0.22,0.26,0.92
+526,sepp van den berg,DEF,0.25,0.25,0.0,0.28,0.15,0.93
+527,luke chambers,DEF,0.25,0.25,0.0,0.28,0.15,0.93
+528,matt clarke,DEF,0.25,0.25,0.0,0.25,0.18,0.93
+529,haydon roberts,DEF,0.25,0.25,0.0,0.25,0.18,0.93
+530,calvin ramsay,DEF,0.25,0.25,0.0,0.28,0.15,0.93
+531,james furlong,DEF,0.25,0.25,0.0,0.25,0.18,0.93
+532,ed turns,DEF,0.25,0.25,0.0,0.25,0.18,0.93
+533,rhys williams,DEF,0.25,0.25,0.0,0.28,0.15,0.93
+534,jack colback,MID,0.24,0.26,0.0,0.26,0.16,0.92
 535,karl hein,GKP,0.26,0.18,0.0,0.22,0.26,0.92
-536,jack colback,MID,0.24,0.26,0.0,0.26,0.16,0.92
-537,matthew smith,MID,0.26,0.18,0.0,0.22,0.26,0.92
-538,nicolas pépé,MID,0.26,0.18,0.0,0.22,0.26,0.92
+536,matthew smith,MID,0.26,0.18,0.0,0.22,0.26,0.92
+537,nicolas pépé,MID,0.26,0.18,0.0,0.22,0.26,0.92
+538,marcus oliveira alencar,MID,0.26,0.18,0.0,0.22,0.26,0.92
 539,ben greenwood,DEF,0.25,0.25,0.0,0.25,0.17,0.92
 540,james hill,DEF,0.25,0.25,0.0,0.25,0.17,0.92
 541,matt turner,GKP,0.26,0.18,0.0,0.22,0.26,0.92
 542,ryan fredericks,DEF,0.25,0.25,0.0,0.25,0.17,0.92
 543,mohamed elneny,MID,0.26,0.18,0.0,0.22,0.26,0.92
-544,nathan butler-oyedeji,FWD,0.26,0.18,0.0,0.22,0.26,0.92
-545,owen bevan,DEF,0.25,0.25,0.0,0.25,0.17,0.92
-546,amario cozier-duberry,MID,0.26,0.18,0.0,0.22,0.26,0.92
-547,lucas torreira di pascua,MID,0.26,0.18,0.0,0.22,0.26,0.92
-548,ethan nwaneri,MID,0.26,0.18,0.0,0.22,0.26,0.92
+544,amario cozier-duberry,MID,0.26,0.18,0.0,0.22,0.26,0.92
+545,nathan butler-oyedeji,FWD,0.26,0.18,0.0,0.22,0.26,0.92
+546,owen bevan,DEF,0.25,0.25,0.0,0.25,0.17,0.92
+547,ethan nwaneri,MID,0.26,0.18,0.0,0.22,0.26,0.92
+548,lucas torreira di pascua,MID,0.26,0.18,0.0,0.22,0.26,0.92
 549,max kinsey-wellings,DEF,0.25,0.25,0.0,0.25,0.17,0.92
-550,paulo gazzaniga farias,GKP,0.22,0.26,0.0,0.26,0.16,0.9
-551,zidane iqbal,MID,0.21,0.18,0.0,0.25,0.26,0.9
-552,martial godo,MID,0.22,0.26,0.0,0.26,0.16,0.9
-553,tyrese francois,MID,0.22,0.26,0.0,0.26,0.16,0.9
+550,martial godo,MID,0.22,0.26,0.0,0.26,0.16,0.9
+551,luke harris,MID,0.22,0.26,0.0,0.26,0.16,0.9
+552,paulo gazzaniga farias,GKP,0.22,0.26,0.0,0.26,0.16,0.9
+553,ivan neves abreu cavaleiro,MID,0.22,0.26,0.0,0.26,0.16,0.9
 554,nathaniel chalobah,MID,0.22,0.26,0.0,0.26,0.16,0.9
-555,nathan bishop,GKP,0.21,0.18,0.0,0.25,0.26,0.9
-556,luke harris,MID,0.22,0.26,0.0,0.26,0.16,0.9
-557,ivan neves abreu cavaleiro,MID,0.22,0.26,0.0,0.26,0.16,0.9
-558,shola shoretire,FWD,0.21,0.18,0.0,0.25,0.26,0.9
+555,tyrese francois,MID,0.22,0.26,0.0,0.26,0.16,0.9
+556,nathan bishop,GKP,0.21,0.18,0.0,0.25,0.26,0.9
+557,zidane iqbal,MID,0.21,0.18,0.0,0.25,0.26,0.9
+558,cristiano ronaldo dos santos aveiro,FWD,0.21,0.18,0.0,0.25,0.26,0.9
 559,amad diallo,MID,0.21,0.18,0.0,0.25,0.26,0.9
 560,rodrigo muniz carvalho,FWD,0.22,0.26,0.0,0.26,0.16,0.9
-561,donny van de beek,MID,0.21,0.18,0.0,0.25,0.26,0.9
-562,anthony knockaert,MID,0.22,0.26,0.0,0.26,0.16,0.9
-563,anthony elanga,MID,0.21,0.18,0.0,0.25,0.26,0.9
-564,jay stansfield,FWD,0.22,0.26,0.0,0.26,0.16,0.9
-565,jack butland,GKP,0.21,0.18,0.0,0.25,0.26,0.9
-566,kobbie mainoo,MID,0.21,0.18,0.0,0.25,0.26,0.9
-567,cristiano ronaldo dos santos aveiro,FWD,0.21,0.18,0.0,0.25,0.26,0.9
-568,tom heaton,GKP,0.21,0.18,0.0,0.25,0.26,0.9
-569,kristian sekularac,MID,0.22,0.26,0.0,0.26,0.16,0.9
-570,josh onomah,MID,0.22,0.26,0.0,0.26,0.16,0.9
-571,facundo pellistri rebollo,MID,0.21,0.18,0.0,0.25,0.26,0.9
+561,shola shoretire,FWD,0.21,0.18,0.0,0.25,0.26,0.9
+562,donny van de beek,MID,0.21,0.18,0.0,0.25,0.26,0.9
+563,anthony knockaert,MID,0.22,0.26,0.0,0.26,0.16,0.9
+564,anthony elanga,MID,0.21,0.18,0.0,0.25,0.26,0.9
+565,jay stansfield,FWD,0.22,0.26,0.0,0.26,0.16,0.9
+566,jack butland,GKP,0.21,0.18,0.0,0.25,0.26,0.9
+567,tom heaton,GKP,0.21,0.18,0.0,0.25,0.26,0.9
+568,kristian sekularac,MID,0.22,0.26,0.0,0.26,0.16,0.9
+569,josh onomah,MID,0.22,0.26,0.0,0.26,0.16,0.9
+570,facundo pellistri rebollo,MID,0.21,0.18,0.0,0.25,0.26,0.9
+571,matej kovár,GKP,0.21,0.18,0.0,0.25,0.26,0.9
 572,terry ablade,FWD,0.22,0.26,0.0,0.26,0.16,0.9
-573,matej kovár,GKP,0.21,0.18,0.0,0.25,0.26,0.9
-574,marek rodák,GKP,0.22,0.26,0.0,0.26,0.16,0.9
-575,keane lewis-potter,MID,0.26,0.21,0.0,0.16,0.26,0.89
-576,mads bidstrup,MID,0.26,0.21,0.0,0.16,0.26,0.89
-577,halil dervişoğlu,FWD,0.26,0.21,0.0,0.16,0.26,0.89
-578,ryan trevitt,MID,0.26,0.21,0.0,0.16,0.26,0.89
-579,matthew cox,GKP,0.26,0.21,0.0,0.16,0.26,0.89
-580,thomas strakosha,GKP,0.26,0.21,0.0,0.16,0.26,0.89
-581,ellery balcombe,GKP,0.26,0.21,0.0,0.16,0.26,0.89
-582,marcus forss,FWD,0.26,0.21,0.0,0.16,0.26,0.89
-583,yegor yarmolyuk,MID,0.26,0.21,0.0,0.16,0.26,0.89
-584,killian phillips,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-585,christian benteke,FWD,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-586,jairo riedewald,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-587,jesurun rak-sakyi,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-588,jack wells-morrison,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-589,luke plange,FWD,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-590,naouirou ahamada,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-591,owen goodman,GKP,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-592,john-kymani gordon,FWD,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-593,malcolm ebiowei,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-594,david ozoh,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-595,kaden rodney,MID,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-596,remi matthews,GKP,0.26,0.18,0.0,0.16,0.29,0.8899999999999999
-597,pablo marí villar,DEF,0.25,0.17,0.0,0.21,0.25,0.88
-598,nuno varela tavares,DEF,0.25,0.17,0.0,0.21,0.25,0.88
-599,takehiro tomiyasu,DEF,0.25,0.17,0.0,0.21,0.25,0.88
-600,lino sousa,DEF,0.25,0.17,0.0,0.21,0.25,0.88
-601,armstrong oko-flex,MID,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-602,gianluca scamacca,FWD,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-603,krisztián hegyi,GKP,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-604,nikola vlasic,MID,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-605,joseph anang,GKP,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-606,conor coventry,MID,0.17,0.26,0.0,0.26,0.18,0.8700000000000001
-607,james mcatee,MID,0.23,0.26,0.0,0.22,0.16,0.87
-608,liam delap,FWD,0.23,0.26,0.0,0.22,0.16,0.87
-609,ben knight,MID,0.23,0.26,0.0,0.22,0.16,0.87
-610,claudio gomes,MID,0.23,0.26,0.0,0.22,0.16,0.87
+573,marek rodák,GKP,0.22,0.26,0.0,0.26,0.16,0.9
+574,kobbie mainoo,MID,0.21,0.18,0.0,0.25,0.26,0.9
+575,killian phillips,MID,0.26,0.18,0.0,0.16,0.29,0.89
+576,jairo riedewald,MID,0.26,0.18,0.0,0.16,0.29,0.89
+577,matthew cox,GKP,0.26,0.21,0.0,0.16,0.26,0.89
+578,jesurun rak-sakyi,MID,0.26,0.18,0.0,0.16,0.29,0.89
+579,owen goodman,GKP,0.26,0.18,0.0,0.16,0.29,0.89
+580,jack wells-morrison,MID,0.26,0.18,0.0,0.16,0.29,0.89
+581,christian benteke,FWD,0.26,0.18,0.0,0.16,0.29,0.89
+582,mads bidstrup,MID,0.26,0.21,0.0,0.16,0.26,0.89
+583,ellery balcombe,GKP,0.26,0.21,0.0,0.16,0.26,0.89
+584,yegor yarmolyuk,MID,0.26,0.21,0.0,0.16,0.26,0.89
+585,luke plange,FWD,0.26,0.18,0.0,0.16,0.29,0.89
+586,ryan trevitt,MID,0.26,0.21,0.0,0.16,0.26,0.89
+587,naouirou ahamada,MID,0.26,0.18,0.0,0.16,0.29,0.89
+588,halil dervişoğlu,FWD,0.26,0.21,0.0,0.16,0.26,0.89
+589,remi matthews,GKP,0.26,0.18,0.0,0.16,0.29,0.89
+590,marcus forss,FWD,0.26,0.21,0.0,0.16,0.26,0.89
+591,john-kymani gordon,FWD,0.26,0.18,0.0,0.16,0.29,0.89
+592,david ozoh,MID,0.26,0.18,0.0,0.16,0.29,0.89
+593,malcolm ebiowei,MID,0.26,0.18,0.0,0.16,0.29,0.89
+594,kaden rodney,MID,0.26,0.18,0.0,0.16,0.29,0.89
+595,keane lewis-potter,MID,0.26,0.21,0.0,0.16,0.26,0.89
+596,thomas strakosha,GKP,0.26,0.21,0.0,0.16,0.26,0.89
+597,takehiro tomiyasu,DEF,0.25,0.17,0.0,0.21,0.25,0.88
+598,lino sousa,DEF,0.25,0.17,0.0,0.21,0.25,0.88
+599,nuno varela tavares,DEF,0.25,0.17,0.0,0.21,0.25,0.88
+600,pablo marí villar,DEF,0.25,0.17,0.0,0.21,0.25,0.88
+601,liam delap,FWD,0.23,0.26,0.0,0.22,0.16,0.87
+602,claudio gomes,MID,0.23,0.26,0.0,0.22,0.16,0.87
+603,armstrong oko-flex,MID,0.17,0.26,0.0,0.26,0.18,0.87
+604,james mcatee,MID,0.23,0.26,0.0,0.22,0.16,0.87
+605,scott carson,GKP,0.23,0.26,0.0,0.22,0.16,0.87
+606,krisztián hegyi,GKP,0.17,0.26,0.0,0.26,0.18,0.87
+607,gianluca scamacca,FWD,0.17,0.26,0.0,0.26,0.18,0.87
+608,máximo perrone,MID,0.23,0.26,0.0,0.22,0.16,0.87
+609,nikola vlasic,MID,0.17,0.26,0.0,0.26,0.18,0.87
+610,conor coventry,MID,0.17,0.26,0.0,0.26,0.18,0.87
 611,andy lonergan,GKP,0.19,0.21,0.0,0.21,0.26,0.87
-612,máximo perrone,MID,0.23,0.26,0.0,0.22,0.16,0.87
-613,zack steffen,GKP,0.23,0.26,0.0,0.22,0.16,0.87
-614,scott carson,GKP,0.23,0.26,0.0,0.22,0.16,0.87
-615,joe lolley,MID,0.18,0.26,0.0,0.26,0.16,0.86
-616,alex telles,DEF,0.2,0.17,0.0,0.24,0.25,0.86
-617,joe bryan,DEF,0.21,0.25,0.0,0.25,0.15,0.86
-618,kasper schmeichel,GKP,0.26,0.18,0.0,0.16,0.26,0.86
-619,lewis o'brien,MID,0.18,0.26,0.0,0.26,0.16,0.86
-620,phil jones,DEF,0.2,0.17,0.0,0.24,0.25,0.86
-621,kevin mbabu,DEF,0.21,0.25,0.0,0.25,0.15,0.86
-622,stefan parkes,DEF,0.21,0.25,0.0,0.25,0.15,0.86
-623,xande nascimento da costa silva,MID,0.18,0.26,0.0,0.26,0.16,0.86
-624,carlos ribeiro dias,MID,0.18,0.26,0.0,0.26,0.16,0.86
-625,hamza choudhury,MID,0.26,0.18,0.0,0.16,0.26,0.86
-626,terence kongolo,DEF,0.21,0.25,0.0,0.25,0.15,0.86
-627,ayoze pérez,MID,0.26,0.18,0.0,0.16,0.26,0.86
-628,harry arter,MID,0.18,0.26,0.0,0.26,0.16,0.86
-629,brandon williams,DEF,0.2,0.17,0.0,0.24,0.25,0.86
-630,eric bailly,DEF,0.2,0.17,0.0,0.24,0.25,0.86
-631,brice samba,GKP,0.18,0.26,0.0,0.26,0.16,0.86
-632,alex smithies,GKP,0.26,0.18,0.0,0.16,0.26,0.86
-633,lyle taylor,FWD,0.18,0.26,0.0,0.26,0.16,0.86
-634,jordan smith,GKP,0.18,0.26,0.0,0.26,0.16,0.86
-635,sammy braybrooke,MID,0.26,0.18,0.0,0.16,0.26,0.86
-636,braian ojeda rodríguez,MID,0.18,0.26,0.0,0.26,0.16,0.86
-637,gustavo henrique furtado scarpa,MID,0.18,0.26,0.0,0.26,0.16,0.86
-638,dale taylor,FWD,0.18,0.26,0.0,0.26,0.16,0.86
-639,alex mighten,MID,0.18,0.26,0.0,0.26,0.16,0.86
-640,oliver hammond,MID,0.18,0.26,0.0,0.26,0.16,0.86
-641,marc albrighton,MID,0.26,0.18,0.0,0.16,0.26,0.86
-642,layvin kurzawa,DEF,0.21,0.25,0.0,0.25,0.15,0.86
-643,rhys bennett,DEF,0.2,0.17,0.0,0.24,0.25,0.86
-644,kasey mcateer,MID,0.26,0.18,0.0,0.16,0.26,0.86
-645,wanya marçal-madivadua,MID,0.26,0.18,0.0,0.16,0.26,0.86
-646,nathan ferguson,DEF,0.25,0.17,0.0,0.15,0.28,0.8500000000000001
-647,kofi balmer,DEF,0.25,0.17,0.0,0.15,0.28,0.8500000000000001
-648,mads bech sørensen,DEF,0.25,0.2,0.0,0.15,0.25,0.85
-649,dominic thompson,DEF,0.25,0.2,0.0,0.15,0.25,0.85
-650,tristan crama,DEF,0.25,0.2,0.0,0.15,0.25,0.85
-651,fin stevens,DEF,0.25,0.2,0.0,0.15,0.25,0.85
-652,charlie goode,DEF,0.25,0.2,0.0,0.15,0.25,0.85
+612,joseph anang,GKP,0.17,0.26,0.0,0.26,0.18,0.87
+613,ben knight,MID,0.23,0.26,0.0,0.22,0.16,0.87
+614,zack steffen,GKP,0.23,0.26,0.0,0.22,0.16,0.87
+615,sammy braybrooke,MID,0.26,0.18,0.0,0.16,0.26,0.86
+616,phil jones,DEF,0.2,0.17,0.0,0.24,0.25,0.86
+617,braian ojeda rodríguez,MID,0.18,0.26,0.0,0.26,0.16,0.86
+618,alex telles,DEF,0.2,0.17,0.0,0.24,0.25,0.86
+619,joe bryan,DEF,0.21,0.25,0.0,0.25,0.15,0.86
+620,gustavo henrique furtado scarpa,MID,0.18,0.26,0.0,0.26,0.16,0.86
+621,kasper schmeichel,GKP,0.26,0.18,0.0,0.16,0.26,0.86
+622,lewis o'brien,MID,0.18,0.26,0.0,0.26,0.16,0.86
+623,kevin mbabu,DEF,0.21,0.25,0.0,0.25,0.15,0.86
+624,brandon williams,DEF,0.2,0.17,0.0,0.24,0.25,0.86
+625,stefan parkes,DEF,0.21,0.25,0.0,0.25,0.15,0.86
+626,xande nascimento da costa silva,MID,0.18,0.26,0.0,0.26,0.16,0.86
+627,carlos ribeiro dias,MID,0.18,0.26,0.0,0.26,0.16,0.86
+628,hamza choudhury,MID,0.26,0.18,0.0,0.16,0.26,0.86
+629,terence kongolo,DEF,0.21,0.25,0.0,0.25,0.15,0.86
+630,ayoze pérez,MID,0.26,0.18,0.0,0.16,0.26,0.86
+631,harry arter,MID,0.18,0.26,0.0,0.26,0.16,0.86
+632,joe lolley,MID,0.18,0.26,0.0,0.26,0.16,0.86
+633,marc albrighton,MID,0.26,0.18,0.0,0.16,0.26,0.86
+634,oliver hammond,MID,0.18,0.26,0.0,0.26,0.16,0.86
+635,eric bailly,DEF,0.2,0.17,0.0,0.24,0.25,0.86
+636,dale taylor,FWD,0.18,0.26,0.0,0.26,0.16,0.86
+637,kasey mcateer,MID,0.26,0.18,0.0,0.16,0.26,0.86
+638,brice samba,GKP,0.18,0.26,0.0,0.26,0.16,0.86
+639,wanya marçal-madivadua,MID,0.26,0.18,0.0,0.16,0.26,0.86
+640,alex smithies,GKP,0.26,0.18,0.0,0.16,0.26,0.86
+641,layvin kurzawa,DEF,0.21,0.25,0.0,0.25,0.15,0.86
+642,rhys bennett,DEF,0.2,0.17,0.0,0.24,0.25,0.86
+643,lyle taylor,FWD,0.18,0.26,0.0,0.26,0.16,0.86
+644,jordan smith,GKP,0.18,0.26,0.0,0.26,0.16,0.86
+645,alex mighten,MID,0.18,0.26,0.0,0.26,0.16,0.86
+646,tristan crama,DEF,0.25,0.2,0.0,0.15,0.25,0.85
+647,nathan ferguson,DEF,0.25,0.17,0.0,0.15,0.28,0.85
+648,dominic thompson,DEF,0.25,0.2,0.0,0.15,0.25,0.85
+649,charlie goode,DEF,0.25,0.2,0.0,0.15,0.25,0.85
+650,mads bech sørensen,DEF,0.25,0.2,0.0,0.15,0.25,0.85
+651,kofi balmer,DEF,0.25,0.17,0.0,0.15,0.28,0.85
+652,fin stevens,DEF,0.25,0.2,0.0,0.15,0.25,0.85
 653,sergi canós tenés,DEF,0.25,0.2,0.0,0.15,0.25,0.85
-654,sasa kalajdzic,FWD,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-655,gonçalo manuel ganchinho guedes,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-656,chem campbell,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-657,dane scarlett,FWD,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-658,harvey white,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-659,joseph hodge,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-660,harry winks,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-661,harvey griffiths,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-662,bryan gil salvatierra,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-663,matija šarkić,GKP,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-664,connor ronan,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-665,troy parrott,FWD,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-666,nathan fraser,FWD,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-667,alfie devine,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-668,jackson smith,GKP,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-669,steven bergwijn,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-670,brandon austin,GKP,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-671,francisco jorge tomás oliveira,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-672,fabio silva,FWD,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-673,luke cundle,MID,0.16,0.26,0.0,0.26,0.16,0.8400000000000001
-674,arthur masuaku,DEF,0.16,0.25,0.0,0.25,0.17,0.8300000000000001
-675,kaelan casey,DEF,0.16,0.25,0.0,0.25,0.17,0.8300000000000001
-676,loïc mbe soh,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-677,giulian biancone,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-678,loïc badé,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-679,joe wormleighton,DEF,0.25,0.17,0.0,0.15,0.25,0.8200000000000001
-680,jonathan panzo,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-681,richie laryea,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-682,ryan bertrand,DEF,0.25,0.17,0.0,0.15,0.25,0.8200000000000001
-683,steve cook,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-684,philippe coutinho correia,MID,0.18,0.18,0.0,0.2,0.26,0.8200000000000001
-685,mohamed dräger,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-686,jannik vestergaard,DEF,0.25,0.17,0.0,0.15,0.25,0.8200000000000001
-687,omar richards,DEF,0.17,0.25,0.0,0.25,0.15,0.8200000000000001
-688,lewis brunt,DEF,0.25,0.17,0.0,0.15,0.25,0.8200000000000001
-689,james justin,DEF,0.25,0.17,0.0,0.15,0.25,0.8200000000000001
-690,josh wilson-esbrand,DEF,0.21,0.25,0.0,0.21,0.15,0.82
-691,joão cancelo,DEF,0.21,0.25,0.0,0.21,0.15,0.82
-692,luke mbete-tabu,DEF,0.21,0.25,0.0,0.21,0.15,0.82
-693,joe rodon,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-694,dexter lembikisa,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-695,djed spence,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-696,ryan sessegnon,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-697,sergio reguilón,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-698,yerson mosquera valdelamar,DEF,0.15,0.25,0.0,0.25,0.15,0.8
-699,stanley mills,MID,0.18,0.16,0.0,0.18,0.26,0.78
-700,andros townsend,MID,0.18,0.16,0.0,0.18,0.26,0.78
-701,dele alli,MID,0.18,0.16,0.0,0.18,0.26,0.78
-702,salomón rondón,FWD,0.18,0.16,0.0,0.18,0.26,0.78
-703,thomas cannon,FWD,0.18,0.16,0.0,0.18,0.26,0.78
-704,eldin jakupovic,GKP,0.18,0.16,0.0,0.18,0.26,0.78
-705,asmir begović,GKP,0.18,0.16,0.0,0.18,0.26,0.78
-706,jean-philippe gbamin,MID,0.18,0.16,0.0,0.18,0.26,0.78
-707,andré tavares gomes,MID,0.18,0.16,0.0,0.18,0.26,0.78
-708,lewis warrington,MID,0.18,0.16,0.0,0.18,0.26,0.78
-709,isaac price,MID,0.18,0.16,0.0,0.18,0.26,0.78
-710,allan marques loureiro,MID,0.18,0.16,0.0,0.18,0.26,0.78
-711,oriol romeu vidal,MID,0.16,0.16,0.0,0.18,0.26,0.76
-712,archie gray,MID,0.16,0.16,0.0,0.18,0.26,0.76
-713,andrey nascimento dos santos,MID,0.16,0.18,0.0,0.16,0.26,0.76
-714,jaden philogene-bidace,MID,0.16,0.16,0.0,0.18,0.26,0.76
-715,callum hudson-odoi,MID,0.16,0.18,0.0,0.16,0.26,0.76
-716,mateusz lis,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-717,marcus bettinelli,GKP,0.16,0.18,0.0,0.16,0.26,0.76
-718,ryan finnigan,MID,0.16,0.16,0.0,0.18,0.26,0.76
-719,sonny perkins,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-720,viljami sinisalo,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-721,kadan young,MID,0.16,0.16,0.0,0.18,0.26,0.76
+654,sasa kalajdzic,FWD,0.16,0.26,0.0,0.26,0.16,0.84
+655,gonçalo manuel ganchinho guedes,MID,0.16,0.26,0.0,0.26,0.16,0.84
+656,chem campbell,MID,0.16,0.26,0.0,0.26,0.16,0.84
+657,dane scarlett,FWD,0.16,0.26,0.0,0.26,0.16,0.84
+658,steven bergwijn,MID,0.16,0.26,0.0,0.26,0.16,0.84
+659,joseph hodge,MID,0.16,0.26,0.0,0.26,0.16,0.84
+660,harry winks,MID,0.16,0.26,0.0,0.26,0.16,0.84
+661,harvey griffiths,MID,0.16,0.26,0.0,0.26,0.16,0.84
+662,bryan gil salvatierra,MID,0.16,0.26,0.0,0.26,0.16,0.84
+663,matija šarkić,GKP,0.16,0.26,0.0,0.26,0.16,0.84
+664,connor ronan,MID,0.16,0.26,0.0,0.26,0.16,0.84
+665,troy parrott,FWD,0.16,0.26,0.0,0.26,0.16,0.84
+666,alfie devine,MID,0.16,0.26,0.0,0.26,0.16,0.84
+667,harvey white,MID,0.16,0.26,0.0,0.26,0.16,0.84
+668,nathan fraser,FWD,0.16,0.26,0.0,0.26,0.16,0.84
+669,brandon austin,GKP,0.16,0.26,0.0,0.26,0.16,0.84
+670,luke cundle,MID,0.16,0.26,0.0,0.26,0.16,0.84
+671,francisco jorge tomás oliveira,MID,0.16,0.26,0.0,0.26,0.16,0.84
+672,jackson smith,GKP,0.16,0.26,0.0,0.26,0.16,0.84
+673,fabio silva,FWD,0.16,0.26,0.0,0.26,0.16,0.84
+674,arthur masuaku,DEF,0.16,0.25,0.0,0.25,0.17,0.83
+675,kaelan casey,DEF,0.16,0.25,0.0,0.25,0.17,0.83
+676,jannik vestergaard,DEF,0.25,0.17,0.0,0.15,0.25,0.82
+677,steve cook,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+678,ryan bertrand,DEF,0.25,0.17,0.0,0.15,0.25,0.82
+679,richie laryea,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+680,mohamed dräger,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+681,joe wormleighton,DEF,0.25,0.17,0.0,0.15,0.25,0.82
+682,joão cancelo,DEF,0.21,0.25,0.0,0.21,0.15,0.82
+683,loïc badé,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+684,giulian biancone,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+685,philippe coutinho correia,MID,0.18,0.18,0.0,0.2,0.26,0.82
+686,loïc mbe soh,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+687,jonathan panzo,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+688,omar richards,DEF,0.17,0.25,0.0,0.25,0.15,0.82
+689,luke mbete-tabu,DEF,0.21,0.25,0.0,0.21,0.15,0.82
+690,lewis brunt,DEF,0.25,0.17,0.0,0.15,0.25,0.82
+691,james justin,DEF,0.25,0.17,0.0,0.15,0.25,0.82
+692,josh wilson-esbrand,DEF,0.21,0.25,0.0,0.21,0.15,0.82
+693,djed spence,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+694,ryan sessegnon,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+695,dexter lembikisa,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+696,yerson mosquera valdelamar,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+697,joe rodon,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+698,sergio reguilón,DEF,0.15,0.25,0.0,0.25,0.15,0.8
+699,thomas cannon,FWD,0.18,0.16,0.0,0.18,0.26,0.78
+700,lewis warrington,MID,0.18,0.16,0.0,0.18,0.26,0.78
+701,isaac price,MID,0.18,0.16,0.0,0.18,0.26,0.78
+702,asmir begović,GKP,0.18,0.16,0.0,0.18,0.26,0.78
+703,andros townsend,MID,0.18,0.16,0.0,0.18,0.26,0.78
+704,stanley mills,MID,0.18,0.16,0.0,0.18,0.26,0.78
+705,allan marques loureiro,MID,0.18,0.16,0.0,0.18,0.26,0.78
+706,andré tavares gomes,MID,0.18,0.16,0.0,0.18,0.26,0.78
+707,dele alli,MID,0.18,0.16,0.0,0.18,0.26,0.78
+708,jean-philippe gbamin,MID,0.18,0.16,0.0,0.18,0.26,0.78
+709,salomón rondón,FWD,0.18,0.16,0.0,0.18,0.26,0.78
+710,eldin jakupovic,GKP,0.18,0.16,0.0,0.18,0.26,0.78
+711,nathan redmond,MID,0.16,0.16,0.0,0.18,0.26,0.76
+712,willy caballero,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+713,ross barkley,MID,0.16,0.18,0.0,0.16,0.26,0.76
+714,raphael dias belloli,MID,0.16,0.16,0.0,0.18,0.26,0.76
+715,nathan tella,MID,0.16,0.16,0.0,0.18,0.26,0.76
+716,andrey nascimento dos santos,MID,0.16,0.18,0.0,0.16,0.26,0.76
+717,edouard mendy,GKP,0.16,0.18,0.0,0.16,0.26,0.76
+718,kadan young,MID,0.16,0.16,0.0,0.18,0.26,0.76
+719,callum hudson-odoi,MID,0.16,0.18,0.0,0.16,0.26,0.76
+720,ryan finnigan,MID,0.16,0.16,0.0,0.18,0.26,0.76
+721,mislav orsic,MID,0.16,0.16,0.0,0.18,0.26,0.76
 722,joe gelhardt,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-723,cameron archer,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-724,darko gyabi,MID,0.16,0.16,0.0,0.18,0.26,0.76
+723,filip marschall,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+724,oriol romeu vidal,MID,0.16,0.16,0.0,0.18,0.26,0.76
 725,lewis bate,MID,0.16,0.16,0.0,0.18,0.26,0.76
-726,filip marschall,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-727,oliwier zych,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-728,will smallbone,MID,0.16,0.16,0.0,0.18,0.26,0.76
-729,nathan redmond,MID,0.16,0.16,0.0,0.18,0.26,0.76
-730,edouard mendy,GKP,0.16,0.18,0.0,0.16,0.26,0.76
-731,raphael dias belloli,MID,0.16,0.16,0.0,0.18,0.26,0.76
-732,nathan tella,MID,0.16,0.16,0.0,0.18,0.26,0.76
-733,morgan sanson,MID,0.16,0.16,0.0,0.18,0.26,0.76
-734,anwar el ghazi,MID,0.16,0.16,0.0,0.18,0.26,0.76
-735,keinan davis,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-736,harvey vale,MID,0.16,0.18,0.0,0.16,0.26,0.76
-737,mateusz klich,MID,0.16,0.16,0.0,0.18,0.26,0.76
-738,lewis payne,MID,0.16,0.16,0.0,0.18,0.26,0.76
-739,tim iroegbunam,MID,0.16,0.16,0.0,0.18,0.26,0.76
-740,omari hutchinson,MID,0.16,0.18,0.0,0.16,0.26,0.76
-741,timo werner,FWD,0.16,0.18,0.0,0.16,0.26,0.76
-742,jamie shackleton,MID,0.16,0.16,0.0,0.18,0.26,0.76
+726,will smallbone,MID,0.16,0.16,0.0,0.18,0.26,0.76
+727,viljami sinisalo,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+728,jimmy morgan,FWD,0.16,0.16,0.0,0.18,0.26,0.76
+729,kristoffer klaesson,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+730,morgan sanson,MID,0.16,0.16,0.0,0.18,0.26,0.76
+731,jaden philogene-bidace,MID,0.16,0.16,0.0,0.18,0.26,0.76
+732,timo werner,FWD,0.16,0.18,0.0,0.16,0.26,0.76
+733,omari hutchinson,MID,0.16,0.18,0.0,0.16,0.26,0.76
+734,harvey vale,MID,0.16,0.18,0.0,0.16,0.26,0.76
+735,tim iroegbunam,MID,0.16,0.16,0.0,0.18,0.26,0.76
+736,sonny perkins,FWD,0.16,0.16,0.0,0.18,0.26,0.76
+737,keinan davis,FWD,0.16,0.16,0.0,0.18,0.26,0.76
+738,mateusz lis,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+739,mateo joseph fernández,FWD,0.16,0.16,0.0,0.18,0.26,0.76
+740,mateusz klich,MID,0.16,0.16,0.0,0.18,0.26,0.76
+741,marcus bettinelli,GKP,0.16,0.18,0.0,0.16,0.26,0.76
+742,darko gyabi,MID,0.16,0.16,0.0,0.18,0.26,0.76
 743,marvelous nakamba,MID,0.16,0.16,0.0,0.18,0.26,0.76
-744,jimmy morgan,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-745,mateo joseph fernández,FWD,0.16,0.16,0.0,0.18,0.26,0.76
-746,mislav orsic,MID,0.16,0.16,0.0,0.18,0.26,0.76
-747,armando broja,FWD,0.16,0.18,0.0,0.16,0.26,0.76
-748,ross barkley,MID,0.16,0.18,0.0,0.16,0.26,0.76
-749,kristoffer klaesson,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-750,willy caballero,GKP,0.16,0.16,0.0,0.18,0.26,0.76
-751,tyler roberts,MID,0.16,0.16,0.0,0.18,0.26,0.76
-752,rúben nascimento vinagre,DEF,0.17,0.15,0.0,0.17,0.25,0.74
-753,kyle john,DEF,0.17,0.15,0.0,0.17,0.25,0.74
-754,reece welch,DEF,0.17,0.15,0.0,0.17,0.25,0.74
-755,niels nkounkou,DEF,0.17,0.15,0.0,0.17,0.25,0.74
-756,jarrad branthwaite,DEF,0.17,0.15,0.0,0.17,0.25,0.74
-757,leo fuhr hjelde,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-758,sil swinkels,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-759,ludwig augustinsson,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-760,kortney hause,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-761,bashir humphreys,DEF,0.15,0.17,0.0,0.15,0.25,0.72
-762,cody drameh,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-763,frédéric guilbert,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-764,kaine kesler hayden,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-765,ethan ampadu,DEF,0.15,0.17,0.0,0.15,0.25,0.72
-766,diogo pinheiro monteiro,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-767,stuart dallas,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-768,diego llorente,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-769,yan valery,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-770,malang sarr,DEF,0.15,0.17,0.0,0.15,0.25,0.72
-771,marcos alonso,DEF,0.15,0.17,0.0,0.15,0.25,0.72
+744,tyler roberts,MID,0.16,0.16,0.0,0.18,0.26,0.76
+745,oliwier zych,GKP,0.16,0.16,0.0,0.18,0.26,0.76
+746,armando broja,FWD,0.16,0.18,0.0,0.16,0.26,0.76
+747,anwar el ghazi,MID,0.16,0.16,0.0,0.18,0.26,0.76
+748,lewis payne,MID,0.16,0.16,0.0,0.18,0.26,0.76
+749,jamie shackleton,MID,0.16,0.16,0.0,0.18,0.26,0.76
+750,cameron archer,FWD,0.16,0.16,0.0,0.18,0.26,0.76
+751,archie gray,MID,0.16,0.16,0.0,0.18,0.26,0.76
+752,jarrad branthwaite,DEF,0.17,0.15,0.0,0.17,0.25,0.74
+753,reece welch,DEF,0.17,0.15,0.0,0.17,0.25,0.74
+754,niels nkounkou,DEF,0.17,0.15,0.0,0.17,0.25,0.74
+755,rúben nascimento vinagre,DEF,0.17,0.15,0.0,0.17,0.25,0.74
+756,kyle john,DEF,0.17,0.15,0.0,0.17,0.25,0.74
+757,kortney hause,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+758,ethan ampadu,DEF,0.15,0.17,0.0,0.15,0.25,0.72
+759,frédéric guilbert,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+760,diego llorente,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+761,diogo pinheiro monteiro,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+762,sil swinkels,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+763,ludwig augustinsson,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+764,leo fuhr hjelde,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+765,cody drameh,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+766,bashir humphreys,DEF,0.15,0.17,0.0,0.15,0.25,0.72
+767,kaine kesler hayden,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+768,yan valery,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+769,mohammed salisu,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+770,marcos alonso,DEF,0.15,0.17,0.0,0.15,0.25,0.72
+771,malang sarr,DEF,0.15,0.17,0.0,0.15,0.25,0.72
 772,juan larios lópez,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-773,mohammed salisu,DEF,0.15,0.15,0.0,0.17,0.25,0.72
-774,lamare bogarde,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+773,lamare bogarde,DEF,0.15,0.15,0.0,0.17,0.25,0.72
+774,stuart dallas,DEF,0.15,0.15,0.0,0.17,0.25,0.72
 775,jeremiah chilokoa-mullen,DEF,0.15,0.15,0.0,0.17,0.25,0.72
 776,robert kenedy nunes do nascimento,DEF,0.15,0.17,0.0,0.15,0.25,0.72
